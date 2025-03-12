@@ -1,5 +1,5 @@
 site_name: Nudge AI Docs
-site_url: https://nudgeaiapp.com/
+site_url: https://nudge-ai-agent.github.io/
 site_description: User guide and documentation for NudgeAI-email app on Shopify app store
 site_author: NudgeAI Team
 
@@ -29,6 +29,7 @@ markdown_extensions:
   - footnotes
 
 nav:
+  - Home: index.md
   - User Guide:
     - Overview: user-guides/overview.md
     - Initial Setup: user-guides/initial-setup.md
