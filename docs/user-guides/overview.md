@@ -2,7 +2,7 @@
 toc: false
 ---
 
-# Nudge AI: Transform Email Quality, Boost Your ROI 🚀
+# Nudge AI: Transform Email Quality, Boost Your ROI 🚀🚀🚀
 
 !!! warning "Did You Know?"
     **Most Shopify stores have up to 40% low-quality email subscribers that never engage with their campaigns!** This translates to wasted marketing efforts and significantly reduced ROI.

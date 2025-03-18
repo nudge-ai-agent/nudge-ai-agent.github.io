@@ -1,4 +1,4 @@
-# MkDocs 빌드 결과물 (루트에 복사되므로 중복 커밋 방지)
+# MkDocs 빌드 결과물
 /site/
 
 # Python 관련 파일
