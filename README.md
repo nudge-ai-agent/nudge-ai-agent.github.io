@@ -32,6 +32,13 @@ NudgeAI-email은 Shopify 앱스토어에 출시할 신규 앱으로, 고품질 G
   - GitHub Pages의 배포 소스로 사용됨
 - **직접 수정 금지**: 이 브랜치는 배포 스크립트로만 업데이트하고 직접 수정하지 않음
 
+> 🔧 **GitHub Pages 설정 방법**  
+> 1. 저장소 → Settings → Pages로 이동  
+> 2. Source 섹션에서 "Deploy from a branch" 선택  
+> 3. Branch 드롭다운에서 "gh-pages" 선택, 폴더는 "/(root)" 유지  
+> 4. Save 버튼 클릭  
+> ⚠️ 이 설정이 완료되어야 웹사이트가 https://nudge-ai-agent.github.io/ 주소로 접근 가능합니다.
+
 ## 개발 환경 설정
 
 ### 1. 필수 요구사항
