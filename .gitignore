@@ -1,6 +1,9 @@
 # MkDocs 빌드 결과물
 /site/
 
+# site 디렉토리 (빌드된 파일)
+site/
+
 # Python 관련 파일
 __pycache__/
 *.py[cod]
