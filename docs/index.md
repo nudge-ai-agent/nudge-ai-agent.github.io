@@ -1,4 +1,4 @@
-# NudgeAI-email Documentation
+# Nudge AI
 
 This page will automatically redirect to the [NudgeAI-email Overview](user-guides/overview.md) page.
 

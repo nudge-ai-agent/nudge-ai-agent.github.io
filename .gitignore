@@ -1,0 +1,34 @@
+# MkDocs 빌드 결과물 (루트에 복사되므로 중복 커밋 방지)
+/site/
+
+# Python 관련 파일
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE 관련 파일
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# 시스템 파일
+.DS_Store
+Thumbs.db 

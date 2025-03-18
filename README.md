@@ -1,48 +1,65 @@
-# NudgeAI-email
+# Nudge AI
 
 ## 프로젝트 개요
 NudgeAI-email은 Shopify 앱스토어에 출시할 신규 앱으로, 고품질 Gmail 구독자를 쉽고 효과적으로 확보할 수 있는 AI 기반 이메일 마케팅 솔루션입니다. 본 레포지토리는 이 앱에 관한 지식과 정보를 관리하기 위한 목적으로 구성되었습니다.
 
-## 핵심 기능
-- **Google 원탭 로그인/가입**: 한 번의 클릭으로 계정 생성 및 로그인
-- **Apple 간편 로그인** 지원
-- **AI 기반 스마트 팝업**: 최적의 시점에 노출되는 사용자 친화적인 팝업
-- **고품질 Gmail 구독자 확보**: 높은 오픈율, 클릭률, 전환율을 보이는 Gmail 사용자 타겟팅
+## 문서화 시스템
+이 프로젝트는 [MkDocs](https://www.mkdocs.org/)를 사용하여 문서화되어 있습니다. MkDocs는 마크다운 파일을 사용하여 정적 사이트를 생성하는 문서화 도구입니다.
 
-## 레포지토리 구성
+### 문서 구조
+- `docs/` - 마크다운 형식의 문서 파일들이 저장된 디렉토리
+- `mkdocs.yml` - MkDocs 설정 파일
+- `site/` - 빌드된 정적 웹사이트 파일들이 저장되는 디렉토리 (`.gitignore`에 포함됨)
 
-이 레포지토리는 다음과 같은 파일들로 구성되어 있습니다:
+### 문서 개발하기
+로컬에서 문서를 개발하려면:
 
-- **background_knowledge.md**: Shopify 설정, Gmail 구독자의 가치, Google One Tap 기술, 이메일 마케팅 법규 준수 등에 관한 배경 지식
-- **faq.md**: 설치 및 설정, 기능, 가격 및 결제, 데이터 및 성능, 기술 지원 관련 자주 묻는 질문과 답변
-- **knowledge_base.md**: 앱 개요, 주요 기능, 차별화 요소, 스마트 노출 규칙, 가격 정책, 설치 및 설정 가이드, 고객 지원 정보
+```bash
+# MkDocs 설치
+pip install mkdocs mkdocs-material
 
-## 왜 NudgeAI-email인가?
+# 로컬 서버 실행
+mkdocs serve
 
-NudgeAI-email은 다음과 같은 차별화된 가치를 제공합니다:
+# 사이트 빌드하기
+mkdocs build
+```
 
-### AI 기반 자동화
-기존 경쟁사(Privy, Omnisend, qikify 등)와 달리 Google 원탭 로그인을 지원하고, 팝업 디자인과 노출 규칙을 AI가 자동으로 최적화합니다. 복잡한 설정 없이 쉽고 간단하게 구성할 수 있습니다.
+## 배포 정보
+문서는 GitHub Pages를 통해 배포되며, 다음 URL에서 확인할 수 있습니다:
+https://nudge-ai-agent.github.io/
 
-### Gmail 구독자의 가치
-Gmail 구독자는 일반 이메일 구독자보다 다음과 같은 장점이 있습니다:
-- 오픈율: 25~30% (일반 이메일: 10~15%)
-- 클릭률: 3~5% (일반 이메일: 1~2%)
-- 전환율: 2~4% (일반 이메일: 0.5~1%)
+### 배포 방법
+이 프로젝트는 MkDocs로 빌드된 파일을 메인 브랜치의 루트 디렉토리에 직접 배포합니다.
 
-## 설치 및 설정 요약
+자동 배포를 위한 스크립트가 포함되어 있습니다:
+```bash
+# 배포 스크립트 실행 (문서 빌드 및 GitHub Pages 배포)
+./deploy.sh
+```
 
-1. Shopify 앱스토어에서 NudgeAI-email 설치
-2. Shopify 설정에서 Legacy 계정 옵션 선택
-3. 앱 임베드 활성화
-4. 이메일 구독 동의 설정 구성
-5. 서비스 모듈 설정
-6. 대시보드에서 성과 모니터링
+이 스크립트는 다음 작업을 수행합니다:
+1. 현재 변경사항 커밋
+2. MkDocs로 사이트 빌드
+3. 빌드된 파일을 루트 디렉토리로 복사
+4. 변경사항을 GitHub에 푸시
 
-## 기술 지원 및 문의
-- 이메일: support@nudgeaiapp.com
-- 웹사이트: NudgeAIApp.com
+## 원격 저장소 정보
+- 저장소 URL: https://github.com/nudge-ai-agent/nudge-ai-agent.github.io.git
+- 기본 브랜치: main
 
-## 가격 정책
-- 월 $9.9부터 시작
-- 14일 무료 체험판 제공 
+## 기여 방법
+1. 저장소를 Fork 합니다.
+2. 새로운 브랜치를 생성합니다 (`git checkout -b feature/your-feature-name`).
+3. 변경사항을 커밋합니다 (`git commit -m 'Add some feature'`).
+4. 브랜치에 푸시합니다 (`git push origin feature/your-feature-name`).
+5. Pull Request를 생성합니다.
+
+## 라이센스
+프로젝트의 라이센스 정보는 별도 문서를 참조하세요.
+
+## 연락처
+- 웹사이트: [NudgeAI](https://nudge-ai-agent.github.io/)
+- Twitter: [@nudgeai](https://twitter.com/nudgeai)
+- GitHub: [nudgeai](https://github.com/nudgeai)
+
