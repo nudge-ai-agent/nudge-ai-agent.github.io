@@ -141,6 +141,17 @@ mkdocs gh-deploy
 배포된 문서는 다음 URL에서 확인할 수 있습니다:
 https://nudge-ai-agent.github.io/
 
+### 3. 사용자 지정 도메인 설정
+`help.nudgeaiapp.com` 도메인이 `https://nudge-ai-agent.github.io/`에 연결될 예정입니다. 설정 완료 후에는 다음 URL에서도 문서에 접근할 수 있습니다:
+```
+https://help.nudgeaiapp.com/
+```
+
+> 📝 **도메인 연결 참고사항**  
+> - GitHub Pages 설정에서 Custom domain 항목에 help.nudgeaiapp.com 입력 필요
+> - DNS 제공업체에서 CNAME 레코드 설정 필요 (help.nudgeaiapp.com → nudge-ai-agent.github.io)
+> - HTTPS 활성화하여 보안 강화 권장
+
 ## 문제 해결
 
 ### 1. 배포 중 오류 발생 시
