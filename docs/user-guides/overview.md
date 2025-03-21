@@ -1,8 +1,4 @@
----
-toc: false
----
-
-# Nudge AI: Transform Email Quality, Boost Your ROI 🚀🚀🚀
+# Transform Email Quality, Boost Your ROI 🚀
 
 !!! warning "Did You Know?"
     **Most Shopify stores have up to 40% low-quality email subscribers that never engage with their campaigns!** This translates to wasted marketing efforts and significantly reduced ROI.
@@ -56,6 +52,10 @@ Discover the remarkable advantages Gmail subscribers bring to your business:
 * ⚙️ **[Settings Guide](settings.md)** - Customize your experience with our easy settings options
 * 💡 **[Use Cases](use-cases.md)** - Discover creative ways to grow with NudgeAI-email
 * 📊 **[Pricing Information](pricing-payment.md)** - Find the perfect plan for your business needs
+* 🔑 **[Google One Tap Login](../features/google-one-tap/index.md)** - Learn how to boost conversions with one-click authentication
+* 💬 **[Smart Popups](../features/smart-popups/index.md)** - Discover our AI-powered popup solution
+* 📈 **[Success Stories](../success-stories/index.md)** - See how other businesses achieved amazing results
+* 📋 **[Release Notes](../release-notes.md)** - Check out our latest features and improvements
 
 ## What Makes Us Special
 

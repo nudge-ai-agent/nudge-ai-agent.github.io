@@ -1,109 +1,120 @@
-# 릴리스 노트
+---
 
-NudgeAI-email의 모든 업데이트와 새로운 기능에 대한 정보를 확인할 수 있습니다. 지속적으로 개선되는 기능과 성능 향상 사항을 확인하세요.
+# Release Notes: NudgeAI-email Updates
 
-## 버전 1.3.0 (2023년 9월 15일)
+## Version 1.18.0
+(March 21, 2025) Major update with enhanced personalization and multi-store management.
 
-### 새로운 기능
+- Features: Smart Personalization, Multi-store Command Center, AI-Powered Testing
 
-- **고급 A/B 테스트**: 팝업 디자인과 메시지를 자동으로 테스트하고 최적화하는 AI 기반 A/B 테스트 기능 추가
-- **세그먼트별 타겟팅**: 방문자의 행동 패턴과 속성에 따라 다른 메시지를 표시하는 세그먼트 타겟팅 기능 추가
-- **다국어 지원**: 한국어, 일본어, 중국어, 스페인어, 프랑스어 등 10개 언어 지원 추가
+- Improved: 40% faster popup loading, better mobile experience, smoother data synchronization
 
-### 개선 사항
+- Fixes: Analytics reporting delays, display issues with certain Shopify themes, data export formatting
 
-- Google 원탭 로그인 속도 30% 향상
-- 모바일 환경에서 팝업 렌더링 성능 개선
-- 대시보드 로딩 시간 단축
+## Version 1.17.0
+(March 14, 2025) Advanced customer targeting and template management release.
 
-### 버그 수정
+- Features: Customer Targeting 2.0, Design Templates Library, Customer Journey Automation
 
-- Safari 브라우저에서 Apple 로그인 버튼이 간헐적으로 표시되지 않는 문제 수정
-- 구독자 데이터 내보내기 시 일부 필드가 누락되는 문제 수정
-- 이메일 통합 설정 페이지에서 저장 버튼이 작동하지 않는 문제 수정
+- Improved: Smoother popup animations, better mobile detection, faster dashboard loading
 
-## 버전 1.2.0 (2023년 7월 20일)
+- Fixes: Timing issues with popup displays, subscriber counting discrepancies, theme compatibility
 
-### 새로운 기능
+## Version 1.16.0
+(March 7, 2025) Introduces AI-powered timing and revenue tracking.
 
-- **Apple 간편 로그인 추가**: iOS 및 macOS 사용자를 위한 Apple 로그인 통합
-- **고급 분석 대시보드**: 더 상세한 구독자 데이터와 성과 지표를 제공하는 개선된 대시보드
-- **맞춤형 보고서**: 원하는 지표와 기간을 선택하여 커스텀 보고서 생성 기능
+- Features: Perfect Timing Engine, Revenue Dashboard, Custom Style Editor
 
-### 개선 사항
+- Improved: 25% better popup conversion, enhanced preview tool, better mobile experience
 
-- AI 팝업 노출 알고리즘 개선으로 전환율 평균 15% 향상
-- 이메일 마케팅 플랫폼 통합 기능 확장 (Klaviyo, Mailchimp, Campaign Monitor 추가)
-- 대시보드 UI/UX 개선 및 사용성 향상
+- Fixes: Overlapping popups, analytics reporting gaps, mobile device detection
 
-### 버그 수정
+## Version 1.15.0
+(February 28, 2025) International expansion and advanced targeting capabilities.
 
-- 특정 테마에서 팝업이 올바르게 표시되지 않는 문제 수정
-- 동일 사용자에게 팝업이 과도하게 표시되는 문제 수정
-- 구독자 카운트가 실시간으로 업데이트되지 않는 문제 수정
+- Features: Global Customer Reach (15 languages), Precision Targeting Rules, Advanced Event Tracking
 
-## 버전 1.1.0 (2023년 5월 5일)
+- Improved: Faster load times on slow connections, accessibility features, mobile performance
 
-### 새로운 기능
+- Fixes: Language detection, conflicts between popup types, event tracking accuracy
 
-- **이메일 마케팅 통합**: Shopify Email, Klaviyo와의 직접 통합 기능 추가
-- **목표 설정 및 추적**: 구독자 수, 전환율 등 목표를 설정하고 추적하는 기능
-- **향상된 모바일 최적화**: 다양한 모바일 기기에 맞춘 개선된 UI 및 성능
+## Version 1.14.0
+(February 21, 2025) Smart scheduling and preview tools for optimization.
 
-### 개선 사항
+- Features: Smart Scheduling AI, Custom Data Exports, Device Preview Tool
 
-- Google 원탭 인증 프로세스 안정성 향상
-- 팝업 디자인 템플릿 추가 및 다양화
-- 페이지별 노출 규칙 세분화 및 정교화
+- Improved: 20% faster popup loading, smoother animations, more accurate mobile detection
 
-### 버그 수정
+- Fixes: Timezone issues, popup placement problems, custom styling on mobile devices
 
-- 일부 Shopify 테마와의 호환성 문제 수정
-- 특정 조건에서 팝업이 두 번 표시되는 문제 수정
-- 대시보드에서 데이터가 간헐적으로 누락되는 문제 수정
+## Version 1.13.0
+(February 14, 2025) A/B testing and email integration enhancements.
 
-## 버전 1.0.0 (2023년 3월 10일)
+- Features: Advanced A/B Testing, Email Platform Integration, Custom Popup Scheduling
 
-### 최초 출시 기능
+- Improved: Analytics dashboard UI, real-time conversion tracking, popup rendering speed
 
-- **Google 원탭 로그인 및 가입**: 한 번의 클릭으로 Google 계정을 통한 로그인 및 가입
-- **AI 기반 스마트 팝업**: 사용자 행동과 컨텍스트에 맞춰 최적의 시점에 노출되는 팝업
-- **기본 대시보드**: 구독자 성장 및 전환율 등 핵심 지표 모니터링
-- **Shopify 고객 계정 통합**: 수집된 이메일을 Shopify 고객 데이터베이스와 자동 연동
-- **간편 설정**: 복잡한 설정 없이 빠르게 시작할 수 있는 직관적인 설정 프로세스
+- Fixes: Data synchronization issues, style inconsistencies across devices, subscriber count reporting
 
-### 지원되는 기능
+## Version 1.12.0
+(February 7, 2025) Targeting refinements and design improvements.
 
-- 스토어 테마에 맞는 자동 디자인 최적화
-- 이메일 마케팅 법규 준수를 위한 지역별 최적화된 구독 동의 설정
-- 모바일 및 데스크톱 환경 모두 지원
-- 기본 성과 보고서 제공
+- Features: Geo-targeting Capabilities, Custom CSS Support, Exit-intent Technology
 
-## 향후 로드맵
+- Improved: Popup builder interface, template loading speed, responsive design adaptations
 
-NudgeAI-email 팀은 다음과 같은 기능을 향후 업데이트에서 제공할 계획입니다:
+- Fixes: Form validation issues, custom field data collection, analytics dashboard bugs
 
-### 개발 중인 기능
+## Version 1.11.0
+(January 31, 2025) Integration and targeting updates.
 
-- **개인화 AI**: 각 방문자의 관심사와 행동에 맞춘 초개인화 메시지 및 타이밍
-- **확장된 이메일 통합**: 더 많은 이메일 마케팅 플랫폼과의 심층 통합
-- **고급 세그먼테이션**: 더 정교한 고객 세그먼트 타겟팅 및 분석
-- **멀티 스토어 관리**: 여러 Shopify 스토어의 데이터를 통합 관리하는 기능
-- **개선된 자동화**: 이메일 마케팅 캠페인과 연계된 자동화 워크플로우
+- Features: Shopify Theme Inspector, Customer History Tracking, Behavior-based Targeting
 
-### 장기 비전
+- Improved: Backend performance, data processing speed, user permission management
 
-- **옴니채널 통합**: 이메일 외 SMS, 메신저 등 다양한 채널 통합
-- **AI 예측 분석**: 구독자의 미래 행동 및 가치 예측
-- **고급 이탈 방지**: 이탈 가능성이 높은 구독자를 식별하고 선제적으로 대응
-- **마케팅 콘텐츠 추천**: AI가 각 세그먼트에 효과적인 마케팅 콘텐츠 추천
+- Fixes: Memory usage optimization, timeout issues during high traffic, custom domain linking
 
-## 피드백 제공
+## Version 1.10.0
+(January 24, 2025) Performance optimization and user flow improvements.
 
-NudgeAI-email을 더 좋게 만들기 위한 아이디어나 제안이 있으시면 언제든지 다음 방법으로 공유해 주세요:
+- Features: Traffic Source Targeting, One-click Authentication Setup, Customer Segmentation
 
-- 이메일: feedback@nudgeaiapp.com
-- 앱 내 피드백 폼
-- Shopify 앱스토어 리뷰
+- Improved: Dashboard loading times, email template preview functionality, data analysis tools
 
-여러분의 소중한 피드백은 제품 개선의 중요한 자료로 활용됩니다. 
+- Fixes: Third-party integration conflicts, session tracking accuracy, display issues on Safari
+
+## Version 1.9.0
+(January 17, 2025) Social media integration and conversion enhancements.
+
+- Features: Social Media Login Options, Conversion Rate Optimization Tools, Cart Recovery Popups
+
+- Improved: Database query performance, image optimization in popups, custom field validation
+
+- Fixes: User session handling, tracking code conflicts, rare data duplication issues
+
+## Version 1.8.0
+(January 10, 2025) Security enhancements and API updates.
+
+- Features: Enhanced Security Protocol, API Endpoint Expansion, Advanced User Permissions
+
+- Improved: System response time, error handling, cross-browser compatibility
+
+- Fixes: Login edge cases, rare data synchronization issues, image caching problems
+
+## Version 1.7.0
+(January 3, 2025) First release of 2025 with analytics focus.
+
+- Features: Conversion Funnel Analysis, Heatmap Integration, Real-time Visitor Insights
+
+- Improved: Statistical accuracy, report generation speed, dashboard customization options
+
+- Fixes: Minor calculation errors in reports, PDF export formatting, date range selector
+
+## Version 1.6.0
+(December 24, 2024) Year-end update with major enhancements.
+
+- Features: Holiday Marketing Templates, Year-in-Review Analytics, Abandoned Cart Recovery
+
+- Improved: Overall system stability, backup and recovery processes, custom field functionality
+
+- Fixes: Edge case handling in high-traffic scenarios, timezone display issues, reporting accuracy

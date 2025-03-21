@@ -11,8 +11,12 @@ theme:
     - navigation.sections
     - navigation.top
     - search.highlight
-  icon:
-    logo: material/email-plus
+    - navigation.instant
+  logo: assets/images/logo.svg
+  favicon: assets/images/logo.svg
+  palette:
+    primary: indigo
+    accent: yellow
   font:
     text: Helvetica
     code: Roboto Mono
@@ -27,6 +31,9 @@ markdown_extensions:
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - tables
   - footnotes
+  - toc:
+      permalink: true
+      toc_depth: 2
 
 nav:
   - Home: index.md
@@ -36,25 +43,56 @@ nav:
     - Settings: user-guides/settings.md
     - Use Cases: user-guides/use-cases.md
     - Pricing & Payment: user-guides/pricing-payment.md
+    - Compliance: user-guides/compliance.md
   - Features:
-    - Google One Tap Login: features/google-one-tap.md
-    - Apple Sign In: features/apple-sign-in.md
-    - AI-based Smart Popups: features/smart-popups.md
-    - Dashboard: features/dashboard.md
+    - Google One Tap Login: 
+      - Overview: features/google-one-tap/index.md
+      - Benefits: features/google-one-tap/benefits.md
+      - How It Works: features/google-one-tap/how-it-works.md
+      - Implementation: features/google-one-tap/implementation.md
+      - Customization: features/google-one-tap/customization.md
+      - Best Practices: features/google-one-tap/best-practices.md
+      - FAQ: features/google-one-tap/faq.md
+    - Smart Popups: 
+      - Overview: features/smart-popups/index.md
+      - Comparison: features/smart-popups/comparison.md
+      - How It Works: features/smart-popups/how-it-works.md
+      - Benefits: features/smart-popups/benefits.md
+      - Customization: features/smart-popups/customization.md
+      - Best Practices: features/smart-popups/best-practices.md
+      - Success Stories: features/smart-popups/case-studies.md
+      - FAQ: features/smart-popups/faq.md
+  - Success Stories:
+    - Overview: success-stories/index.md
+    - E-commerce:
+      - BOLT Clothing: success-stories/ecommerce-bolt.md
+      - Iron Company: success-stories/ecommerce-iron.md
+      - eBay: success-stories/ecommerce-ebay.md
+    - Media & Content:
+      - The Daily Post: success-stories/media-daily-post.md
+      - Reddit: success-stories/media-reddit.md
+      - Pinterest: success-stories/media-pinterest.md
+    - SaaS & B2B:
+      - TechFlow: success-stories/b2b-techflow.md
+      - Zapier: success-stories/b2b-zapier.md
+      - Trivago: success-stories/b2b-trivago.md
+    - Real Estate & Travel:
+      - Redfin: success-stories/travel-redfin.md
+      - Hipmunk: success-stories/travel-hipmunk.md
   - Release Notes: release-notes.md
-  - Privacy & Legal:
-    - Privacy Policy: legal/privacy-policy.md
-    - Terms of Service: legal/terms-of-service.md
-    - Compliance: legal/compliance.md
+  - "Get the App ↗": https://apps.shopify.com/
 
-plugins: []
+plugins:
+  - meta
 
 extra_css:
   - stylesheets/extra.css
 
+extra_javascript:
+  - javascripts/external-links.js
+
 extra:
   social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/nudgeai
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/nudgeai
+    - icon: fontawesome/brands/shopify
+      link: https://apps.shopify.com/
+      name: NudgeAI on Shopify App Store

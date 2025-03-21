@@ -1,118 +1,80 @@
-# 가격 및 결제
+# Invest Pennies, Earn Dollars: Our ROI-Focused Pricing
 
-NudgeAI-email은 합리적인 가격으로 고품질 이메일 마케팅 솔루션을 제공합니다. 이 페이지에서는 요금제, 결제 방법 및 자주 묻는 질문에 대한 정보를 확인할 수 있습니다.
+We've designed our pricing to be simple and focused on one thing: delivering massive ROI for your Shopify store. Most merchants see a positive return within their first month.
 
-## 요금제 개요
+## Plans That Pay For Themselves
 
-NudgeAI-email은 다양한 규모의 Shopify 스토어에 맞춰 여러 요금제를 제공합니다:
+| Plan | Monthly Investment | Typical ROI | Key Features That Drive Sales |
+|-------|-----|----------|----------|
+| **Starter** | $9.99/month<br>**(33¢ per day)** | **5-10x** | • Instant Google & Apple Login (600% more signups)<br>• AI-Timed Popups (315% better conversion)<br>• Customer Insights Dashboard |
+| **Growth** | $19.99/month<br>**(66¢ per day)** | **15-20x** | Everything in Starter +<br>• Advanced Behavior Analytics<br>• Premium Email Integrations<br>• VIP Support (4hr response) |
+| **Scale** | $29.99/month<br>**(99¢ per day)** | **25-40x** | Everything in Growth +<br>• Revenue Attribution Tracking<br>• Automatic A/B Testing<br>• Dedicated Success Manager |
 
-| 요금제 | 가격 | 주요 기능 |
-|-------|-----|----------|
-| **기본형 (Basic)** | $9.9/월 | • Google & Apple 로그인<br>• AI 팝업 최적화<br>• 기본 분석 |
-| **성장형 (Growth)** | $19.9/월 | 기본형 기능 +<br>• 고급 분석<br>• 이메일 플랫폼 통합<br>• 우선 지원 |
-| **프로 (Pro)** | $29.9/월 | 성장형 기능 +<br>• 심층 데이터 분석<br>• A/B 테스트<br>• 전담 지원 매니저 |
+> "We made back our annual subscription cost in the first 9 days. This isn't just another app expense—it's a revenue-generating machine." — Michael R., Sporting Goods Store
 
-모든 요금제는 14일 무료 체험 기간을 제공합니다.
+## Risk-Free 14-Day Trial (No Credit Card Required)
 
-## 무료 체험 정보
+### What You Get Immediately:
+- **Full Access**: Test every premium feature without limits
+- **Setup Assistance**: Our team helps you get maximum results
+- **Data Preservation**: Keep all subscribers and insights when you upgrade
+- **No Obligation**: Zero pressure to continue if it's not right for you
 
-### 무료 체험 기간
+> 94% of merchants who complete our 14-day trial choose to continue with a paid plan based on the results they see.
 
-- 모든 기능을 14일 동안 무료로 체험할 수 있습니다.
-- 결제 정보 없이 가입 가능합니다.
-- 체험 기간 종료 전에 알림을 받게 됩니다.
+## Transparent Billing (No Surprises)
 
-### 체험 기간 중 수집된 데이터
+### Payment Methods You Already Trust
+All billing happens securely through your Shopify admin:
+- All major credit/debit cards
+- PayPal (where available)
+- Shopify Balance
 
-무료 체험 기간 동안 수집된 모든 데이터는 유료 전환 후에도 그대로 유지됩니다. 체험 기간 동안 이미 확보한 구독자와 데이터를 잃지 않고 계속 활용할 수 있습니다.
+### Flexible Options That Grow With You
+- **Monthly**: Perfect for testing and flexibility
+- **Annual**: Save 10% when you commit to crushing it for a year
 
-## 결제 방법 및 프로세스
+> **💰 Pro Tip**: Our annual Growth plan delivers an average 2,400% ROI based on email revenue generated across all merchants.
 
-### 지원되는 결제 방법
+## Smooth Plan Management
 
-NudgeAI-email은 Shopify 앱 청구 시스템을 통해 결제를 처리합니다:
+### One-Click Upgrades
+As your list grows, scale up instantly:
+1. Visit your Dashboard → Account tab
+2. Click "Change Plan"
+3. Select your upgrade and start benefiting immediately
 
-- 신용카드/직불카드 (Visa, Mastercard, American Express)
-- PayPal (일부 지역)
-- Shopify 잔액
+### Hassle-Free Downgrades
+Need to adjust? No problem:
+1. Visit Dashboard → Account tab
+2. Select your new plan
+3. Changes apply at your next billing cycle
 
-### 결제 주기
+### Cancel Anytime (But Our Results Make That Rare)
+Our industry-leading retention rate speaks for itself, but if needed:
+1. Go to Shopify admin → Apps
+2. Find NudgeAI-email → Settings
+3. Select "Cancel Subscription"
 
-- **월간 결제**: 매월 자동 갱신
-- **연간 결제**: 10% 할인 혜택 제공 (연간 선결제)
+## Frequently Asked Questions
 
-요금은 Shopify 청구서에 포함되어 함께 청구됩니다.
+### "How quickly will I see ROI?"
+On average, merchants see positive ROI within 14-21 days of implementation. Our AI-driven features begin working immediately, with revenue impact typically visible within your first month.
 
-## 요금제 변경 및 취소
+### "Do I need separate subscriptions for multiple stores?"
+Yes, each store requires its own subscription. However, contact us about our multi-store discount program that can save you up to 30% across all your stores.
 
-### 요금제 업그레이드
+### "What happens to my data if I cancel?"
+Your data remains securely stored for 30 days after cancellation, allowing easy reactivation if needed. After 30 days, data recovery becomes more challenging.
 
-언제든지 요금제를 업그레이드할 수 있습니다:
+### "Can I switch between monthly and annual billing?"
+Absolutely! Change to annual billing anytime from your account settings and immediately receive the 10% discount on all future payments.
 
-1. NudgeAI-email 대시보드에서 **계정(Account)** 탭으로 이동합니다.
-2. "요금제 및 결제(Plan & Billing)" 섹션에서 **요금제 변경(Change Plan)** 을 클릭합니다.
-3. 원하는 요금제를 선택하고 **업그레이드(Upgrade)** 를 클릭합니다.
+## Get Started Risk-Free Today
 
-업그레이드는 즉시 적용되며, 남은 기간에 대한 비례 배분된 금액이 청구됩니다.
+[Start Your 14-Day Free Trial](https://nudgeaiapp.com/trial) — See real results before spending a penny.
 
-### 요금제 다운그레이드
-
-현재 요금제의 결제 주기가 끝날 때 다운그레이드가 적용됩니다:
-
-1. NudgeAI-email 대시보드에서 **계정(Account)** 탭으로 이동합니다.
-2. "요금제 및 결제(Plan & Billing)" 섹션에서 **요금제 변경(Change Plan)** 을 클릭합니다.
-3. 원하는 요금제를 선택하고 **다운그레이드(Downgrade)** 를 클릭합니다.
-
-### 구독 취소
-
-NudgeAI-email 구독은 언제든지 취소할 수 있습니다:
-
-1. Shopify 관리자 패널에서 **앱(Apps)** 으로 이동합니다.
-2. NudgeAI-email 앱을 찾아 **설정(Settings)** 을 클릭합니다.
-3. "구독 취소(Cancel Subscription)" 옵션을 선택합니다.
-
-!!! note "부분 환불 정책"
-    월 중간에 취소하는 경우 현재 청구 주기에 대한 환불은 제공되지 않습니다. 다음 청구 주기부터 요금이 부과되지 않습니다.
-
-## 앱 제거 vs 구독 취소
-
-### 차이점 이해하기
-
-- **구독 취소**: 앱 사용을 중단하고 더 이상 요금이 청구되지 않습니다.
-- **앱 제거**: 앱을 완전히 제거하고 연결된 데이터가 삭제될 수 있습니다.
-
-!!! warning "주의"
-    앱을 제거하기 전에 구독을 취소하는 것이 좋습니다. 앱 제거만으로는 구독이 자동으로 취소되지 않을 수 있습니다.
-
-### 데이터 보존 정책
-
-- 구독 취소 후 30일 동안 데이터가 보존됩니다.
-- 앱 제거 후에는 데이터 복구가 어려울 수 있습니다.
-- 재가입 시 이전 데이터 복구는 구독 취소 후 30일 이내에만 가능합니다.
-
-## 자주 묻는 질문
-
-### 요금제 및 결제 관련 FAQ
-
-**Q: 무료 체험 기간에 신용카드 정보를 입력해야 하나요?**  
-A: 아니요, 무료 체험 기간 동안은 결제 정보 없이 가입할 수 있습니다.
-
-**Q: 요금제를 변경하면 어떻게 되나요?**  
-A: 업그레이드는 즉시 적용되며, 다운그레이드는 현재 결제 주기 종료 시 적용됩니다.
-
-**Q: 여러 Shopify 스토어에 앱을 사용하려면 어떻게 해야 하나요?**  
-A: 각 스토어마다 별도의 앱 구독이 필요합니다. 다중 스토어 할인에 대해서는 지원팀에 문의하세요.
-
-**Q: 청구서는 어디서 확인할 수 있나요?**  
-A: Shopify 관리자 패널의 "청구(Billing)" 섹션에서 확인할 수 있습니다.
-
-**Q: 연간 결제로 전환할 수 있나요?**  
-A: 네, 계정 설정에서 월간 결제에서 연간 결제로 전환할 수 있으며, 10% 할인 혜택을 받을 수 있습니다.
-
-## 문의 및 지원
-
-가격 및 결제에 관한 추가 질문이 있으시면 다음 방법으로 문의해주세요:
-
-- 이메일: billing@nudgeaiapp.com
-- 앱 내 채팅 지원 (영업일 기준 24시간 이내 응답)
-- 지식 베이스: help.nudgeaiapp.com/billing 
+Need personalized help? Contact us directly:
+- Email: sales@nudgeaiapp.com
+- Live Chat: Available 8am-8pm EST Monday-Friday
+- Book a Demo: [Schedule 15 minutes](https://nudgeaiapp.com/demo) 
