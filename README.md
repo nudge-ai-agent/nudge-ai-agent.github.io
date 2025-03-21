@@ -6,12 +6,38 @@ NudgeAI-email은 Shopify 앱스토어에 출시할 신규 앱으로, 고품질 G
 ## 프로젝트 구조
 ```
 .
-├── docs/                # 마크다운 형식의 문서 소스 파일
-├── site/                # 빌드된 정적 웹사이트 (Git에서 제외됨)
-├── mkdocs.yml           # MkDocs 설정 파일
-├── deploy.sh            # 배포 스크립트
-└── README.md            # 프로젝트 설명 파일
+├── docs/                   # 마크다운 형식의 문서 소스 파일
+│   ├── assets/             # 이미지, 아이콘 등의 정적 자산
+│   │   └── images/         # 로고 및 이미지 파일
+│   ├── features/           # 기능 관련 문서
+│   │   ├── google-one-tap/ # Google One Tap 로그인 기능 문서
+│   │   └── smart-popups/   # 스마트 팝업 기능 문서
+│   ├── javascripts/        # 커스텀 JavaScript 파일
+│   ├── stylesheets/        # 커스텀 CSS 스타일
+│   ├── success-stories/    # 성공 사례 문서
+│   ├── user-guides/        # 사용자 가이드 문서
+│   └── release-notes.md    # 릴리즈 노트
+├── site/                   # 빌드된 정적 웹사이트 (Git에서 제외됨)
+├── mkdocs.yml              # MkDocs 설정 파일
+└── README.md               # 프로젝트 설명 파일
 ```
+
+## 주요 변경사항 및 기능 추가
+
+### 1. UI/UX 개선
+- **맞춤형 로고**: 헤더에 새로운 커스텀 로고 적용 (docs/assets/images/logo.svg)
+- **Shopify 앱스토어 링크**: 'Get the App ↗' 메뉴 항목 추가 (새 창에서 열림)
+- **Shopify 아이콘**: 푸터에 Shopify 아이콘과 앱스토어 링크 추가
+
+### 2. 문서 구조 개선
+- **기능별 구조화**: Google One Tap 로그인과 Smart Popups에 대한 세부 문서를 하위 폴더로 구성
+- **성공 사례 추가**: 다양한 산업별 성공 사례 문서 추가 (E-commerce, Media, B2B, Travel)
+- **릴리즈 노트 개선**: 간결하고 명확한 버전별 업데이트 정보 제공
+
+### 3. 기술적 개선
+- **외부 링크 처리**: 모든 외부 링크를 새 창에서 열도록 JavaScript 추가
+- **문서 내비게이션**: 메뉴 구조 및 링크 최적화
+- **반응형 디자인**: 모바일 장치에서도 최적화된 레이아웃 제공
 
 ## 브랜치 관리 전략
 
@@ -80,31 +106,38 @@ mkdocs serve
   1. `docs/` 디렉토리에 새 `.md` 파일 생성
   2. `mkdocs.yml` 파일의 `nav` 섹션에 새 문서 경로 추가
 
-## 배포 프로세스
+### 3. JavaScript 및 CSS 수정
+- `docs/javascripts/` 디렉토리에 있는 JS 파일 수정/추가
+- `docs/stylesheets/` 디렉토리에 있는 CSS 파일 수정/추가
+- 변경 후 `mkdocs.yml`의 `extra_javascript` 또는 `extra_css` 섹션에 등록
 
-### 1. 자동 배포
-배포 스크립트를 사용하여 문서를 자동으로 빌드하고 GitHub Pages에 배포합니다:
+### 4. 릴리즈 노트 작성 가이드
+릴리즈 노트는 다음 형식으로 작성합니다:
+```
+## Version X.X.X
+(날짜) 간략한 업데이트 요약
 
-```bash
-# 배포 스크립트 실행
-./deploy.sh
+- Features: 주요 새 기능 목록
+- Improved: 개선된 기능 목록
+- Fixes: 수정된 버그 목록
 ```
 
-### 2. 배포 스크립트 작동 방식
-배포 스크립트(`deploy.sh`)는 다음 작업을 자동으로 수행합니다:
+## 배포 프로세스
 
-1. 현재 변경사항 커밋
-2. MkDocs로 사이트 빌드 (`site/` 디렉토리에 생성)
-3. gh-pages 브랜치로 전환
-4. 임시 디렉토리를 사용하여 빌드된 파일을 안전하게 복사
-5. gh-pages 브랜치에 변경사항 커밋 및 푸시
-6. 원래 작업 중이던 브랜치로 복귀
+### 1. 직접 배포
+MkDocs의 배포 명령어를 사용하여 배포합니다:
 
-### 3. GitHub Pages 설정
-- 저장소 설정에서 GitHub Pages 소스를 `gh-pages` 브랜치로 설정해야 함
-- 설정 경로: 저장소 → Settings → Pages → Source → Branch: `gh-pages`
+```bash
+# 변경사항 커밋
+git add .
+git commit -m "문서 업데이트 내용 설명"
+git push origin main
 
-### 4. 배포 결과 확인
+# GitHub Pages에 배포
+mkdocs gh-deploy
+```
+
+### 2. 배포 결과 확인
 배포된 문서는 다음 URL에서 확인할 수 있습니다:
 https://nudge-ai-agent.github.io/
 
@@ -131,6 +164,11 @@ https://nudge-ai-agent.github.io/
   rm -rf site/
   mkdocs build
   ```
+
+### 3. 외부 링크 문제
+- 헤더의 앱스토어 링크가 새 창에서 열리지 않는 경우:
+  1. `docs/javascripts/external-links.js` 파일 확인
+  2. `mkdocs.yml`의 `extra_javascript` 섹션에 제대로 등록되어 있는지 확인
 
 ## 기여 방법
 1. 저장소를 Fork 합니다.
