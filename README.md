@@ -170,15 +170,8 @@ https://nudge-ai-agent.github.io/
   1. `docs/javascripts/external-links.js` 파일 확인
   2. `mkdocs.yml`의 `extra_javascript` 섹션에 제대로 등록되어 있는지 확인
 
-## 기여 방법
-1. 저장소를 Fork 합니다.
-2. 새로운 브랜치를 생성합니다 (`git checkout -b feature/your-feature-name`).
-3. 변경사항을 커밋합니다 (`git commit -m 'Add some feature'`).
-4. 브랜치에 푸시합니다 (`git push origin feature/your-feature-name`).
-5. Pull Request를 생성합니다.
-
 ## 연락처
+- 이메일: support@nudgeaiapp.com
 - 웹사이트: [NudgeAI](https://nudge-ai-agent.github.io/)
-- Twitter: [@nudgeai](https://twitter.com/nudgeai)
 - GitHub: [nudgeai](https://github.com/nudgeai)
 
