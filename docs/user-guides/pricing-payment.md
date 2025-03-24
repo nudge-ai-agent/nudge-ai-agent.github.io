@@ -7,8 +7,8 @@ We've designed our pricing to be simple and focused on one thing: delivering mas
 | Plan | Monthly Investment | Typical ROI | Key Features That Drive Sales |
 |-------|-----|----------|----------|
 | **Starter** | $9.99/month<br>**(33¢ per day)** | **5-10x** | • Instant Google & Apple Login (600% more signups)<br>• AI-Timed Popups (315% better conversion)<br>• Customer Insights Dashboard |
-| **Growth** | $19.99/month<br>**(66¢ per day)** | **15-20x** | Everything in Starter +<br>• Advanced Behavior Analytics<br>• Premium Email Integrations<br>• VIP Support (4hr response) |
-| **Scale** | $29.99/month<br>**(99¢ per day)** | **25-40x** | Everything in Growth +<br>• Revenue Attribution Tracking<br>• Automatic A/B Testing<br>• Dedicated Success Manager |
+| **Pro** | $19.99/month<br>**(66¢ per day)** | **15-20x** | Everything in Starter +<br>• Advanced Behavior Analytics<br>• Premium Email Integrations<br>• VIP Support (4hr response) |
+| **Scale** | $29.99/month<br>**(99¢ per day)** | **25-40x** | Everything in Pro +<br>• Revenue Attribution Tracking<br>• Automatic A/B Testing<br>• Dedicated Success Manager |
 
 > "We made back our annual subscription cost in the first 9 days. This isn't just another app expense—it's a revenue-generating machine." — Michael R., Sporting Goods Store
 
@@ -34,7 +34,7 @@ All billing happens securely through your Shopify admin:
 - **Monthly**: Perfect for testing and flexibility
 - **Annual**: Save 10% when you commit to crushing it for a year
 
-> **💰 Pro Tip**: Our annual Growth plan delivers an average 2,400% ROI based on email revenue generated across all merchants.
+> **💰 Pro Tip**: Our annual Pro plan delivers an average 2,400% ROI based on email revenue generated across all merchants.
 
 ## Smooth Plan Management
 
