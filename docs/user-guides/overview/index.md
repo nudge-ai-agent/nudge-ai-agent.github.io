@@ -48,14 +48,14 @@ Discover the remarkable advantages Gmail subscribers bring to your business:
 
 ### Quick Links:
 
-* 🚀 **[Getting Started](initial-setup.md)** - Your first steps to NudgeAI-email success
-* ⚙️ **[Settings Guide](settings.md)** - Customize your experience with our easy settings options
-* 💡 **[Use Cases](use-cases.md)** - Discover creative ways to grow with NudgeAI-email
-* 📊 **[Pricing Information](pricing-payment.md)** - Find the perfect plan for your business needs
-* 🔑 **[Google One Tap Login](../features/google-one-tap/index.md)** - Learn how to boost conversions with one-click authentication
-* 💬 **[Smart Popups](../features/smart-popups/index.md)** - Discover our AI-powered popup solution
-* 📈 **[Success Stories](../success-stories/index.md)** - See how other businesses achieved amazing results
-* 📋 **[Release Notes](../release-notes.md)** - Check out our latest features and improvements
+* 🚀 **[Getting Started](../initial-setup/)** - Your first steps to NudgeAI-email success
+* ⚙️ **[Settings Guide](../settings/)** - Customize your experience with our easy settings options
+* 💡 **[Use Cases](../use-cases/)** - Discover creative ways to grow with NudgeAI-email
+* 📊 **[Pricing Information](../pricing-payment/)** - Find the perfect plan for your business needs
+* 🔑 **[Google One Tap Login](../../features/google-one-tap/)** - Learn how to boost conversions with one-click authentication
+* 💬 **[Smart Popups](../../features/smart-popups/)** - Discover our AI-powered popup solution
+* 📈 **[Success Stories](../../success-stories/)** - See how other businesses achieved amazing results
+* 📋 **[Release Notes](../../release-notes/)** - Check out our latest features and improvements
 
 ## What Makes Us Special
 
