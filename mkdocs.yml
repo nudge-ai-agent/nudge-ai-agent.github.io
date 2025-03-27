@@ -80,7 +80,7 @@ nav:
       - Redfin: success-stories/travel-redfin.md
       - Hipmunk: success-stories/travel-hipmunk.md
   - Release Notes: release-notes.md
-  - Privacy Policy: privacy-policy/index.md
+  - 개인정보 처리방침: privacy-policy.md
   - "Get the App ↗": https://apps.shopify.com/
 
 plugins:
