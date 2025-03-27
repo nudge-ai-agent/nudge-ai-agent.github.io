@@ -1,9 +1,9 @@
 # Nudge AI
 
-This page will automatically redirect to the [NudgeAI-email Overview](user-guides/overview.md) page.
+This page will automatically redirect to the [NudgeAI-email Overview](user-guides/overview/index.md) page.
 
-<meta http-equiv="refresh" content="0; url=user-guides/overview.md" />
+<meta http-equiv="refresh" content="0; url=user-guides/overview/index.md" />
 
 <script>
-  window.location.href = "user-guides/overview";
+  window.location.href = "user-guides/overview/index.md";
 </script>
