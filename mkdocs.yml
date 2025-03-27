@@ -38,12 +38,12 @@ markdown_extensions:
 nav:
   - Home: index.md
   - User Guide:
-    - Overview: user-guides/overview.md
-    - Initial Setup: user-guides/initial-setup.md
-    - Settings: user-guides/settings.md
-    - Use Cases: user-guides/use-cases.md
-    - Pricing & Payment: user-guides/pricing-payment.md
-    - Compliance: user-guides/compliance.md
+    - Overview: user-guides/overview/index.md
+    - Initial Setup: user-guides/initial-setup/index.md
+    - Settings: user-guides/settings/index.md
+    - Use Cases: user-guides/use-cases/index.md
+    - Pricing & Payment: user-guides/pricing-payment/index.md
+    - Compliance: user-guides/compliance/index.md
   - Features:
     - Google One Tap Login: 
       - Overview: features/google-one-tap/index.md
