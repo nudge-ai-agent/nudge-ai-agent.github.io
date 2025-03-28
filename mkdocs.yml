@@ -3,6 +3,10 @@ site_url: https://help.nudgeaiapp.com/
 site_description: User guide and documentation for NudgeAI-email app on Shopify app store
 site_author: NudgeAI Team
 
+# Configure to keep CNAME file during deployment
+extra_files:
+  - CNAME
+
 theme:
   name: material
   language: en
