@@ -6,38 +6,38 @@ nav_order: 5
 
 # Privacy Policy
 
-## 개요
-이 개인정보 처리방침은 Nudge AI Agent가 사용자의 개인정보를 어떻게 수집, 사용, 보호하는지 설명합니다.
+## Overview
+This Privacy Policy explains how Nudge AI Agent collects, uses, and protects your personal information.
 
-## 1. 수집하는 개인정보 항목
-- 서비스 이용 기록
-- 사용자 설정 정보
-- 기타 서비스 이용 과정에서 생성되는 정보
+## 1. Personal Information Collected
+- Service usage records
+- User settings information
+- Other information generated during service use
 
-## 2. 개인정보의 수집 및 이용목적
-- 서비스 제공 및 개선
-- 사용자 경험 최적화
-- 서비스 관련 고객 지원
+## 2. Purpose of Collection and Use
+- Service provision and improvement
+- Optimization of user experience
+- Customer support related to services
 
-## 3. 개인정보의 보유 및 이용기간
-- 서비스 이용 계약 종료 시까지
-- 법령에 따른 보관의무가 있는 경우 해당 기간 동안 보관
+## 3. Retention and Usage Period
+- Until termination of the service usage contract
+- For the duration required by law if there is a legal obligation to retain
 
-## 4. 개인정보의 파기
-- 목적 달성 후 지체 없이 파기
-- 전자적 파일 형태의 경우 복구 및 재생이 불가능한 방법으로 영구 삭제
+## 4. Disposal of Personal Information
+- Disposed without delay after the purpose is achieved
+- Electronic files are permanently deleted in a manner that prevents recovery and reproduction
 
-## 5. 이용자 권리
-- 개인정보 열람 요구
-- 오류 정정 요구
-- 삭제 요구
-- 처리정지 요구
+## 5. User Rights
+- Right to request access to personal information
+- Right to request correction of errors
+- Right to request deletion
+- Right to request suspension of processing
 
-## 6. 개인정보 보호책임자
-- 이름: [이름]
-- 직책: [직책]
-- 연락처: [이메일]
+## 6. Personal Information Protection Officer
+- Name: [Name]
+- Position: [Position]
+- Contact: [Email]
 
-## 7. 개인정보 처리방침 변경
-- 이 개인정보 처리방침은 2024년 3월 24일부터 적용됩니다.
-- 이전 개인정보 처리방침은 아래에서 확인할 수 있습니다. 
+## 7. Changes to Privacy Policy
+- This Privacy Policy is effective from March 24, 2024.
+- Previous versions of the Privacy Policy can be viewed below. 
