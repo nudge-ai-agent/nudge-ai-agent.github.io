@@ -1,48 +1,48 @@
-# 개인정보 취급방침
+# Privacy Policy Terms
 
-## 1. 개인정보의 처리 목적
+## 1. Purpose of Processing Personal Information
 
-Nudge AI는 다음의 목적을 위하여 개인정보를 처리하고 있으며, 다음의 목적 이외의 용도로는 이용하지 않습니다.
+Nudge AI processes personal information for the following purposes and does not use it for purposes other than the following:
 
-- 고객 가입의사 확인, 고객에 대한 서비스 제공에 따른 본인 식별·인증, 회원자격 유지·관리, 물품 또는 서비스 공급에 따른 금액 결제, 물품 또는 서비스의 공급·배송 등
-- 고객에게 유용한 서비스 정보 및 광고성 정보의 제공
-- 서비스 이용에 따른 통계, 설문 등에의 활용
+- Verifying customer signup intent, identifying and authenticating customers for service provision, maintaining and managing membership, processing payments for goods or services, supplying or delivering goods or services
+- Providing useful service information and advertising information to customers
+- Utilizing for statistics and surveys based on service usage
 
-## 2. 수집하는 개인정보 항목
+## 2. Categories of Personal Information Collected
 
-Nudge AI는 서비스 제공을 위해 다음과 같은 개인정보를 수집합니다.
+Nudge AI collects the following personal information for service provision:
 
-- 필수항목: 이메일 주소, 이름
-- 선택항목: 전화번호, 주소
-- 자동수집항목: IP 주소, 쿠키, 서비스 이용 기록, 접속 로그
+- Required items: Email address, name
+- Optional items: Phone number, address
+- Automatically collected items: IP address, cookies, service usage records, access logs
 
-## 3. 개인정보의 보유 및 이용기간
+## 3. Retention and Usage Period of Personal Information
 
-Nudge AI는 원칙적으로 개인정보 수집 및 이용목적이 달성된 후에는 해당 정보를 지체 없이 파기합니다. 단, 관계법령의 규정에 의하여 보존할 필요가 있는 경우 회사는 아래와 같이 관계법령에서 정한 일정한 기간 동안 회원정보를 보관합니다.
+Nudge AI will promptly dispose of personal information after the purpose of collection and use has been fulfilled. However, if it is necessary to preserve information in accordance with relevant laws and regulations, the company will retain member information for a certain period as specified by those laws.
 
-## 4. 개인정보의 파기
+## 4. Disposal of Personal Information
 
-Nudge AI는 개인정보의 수집목적 또는 제공받은 목적이 달성된 때에는 개인정보를 지체 없이 파기합니다.
+Nudge AI will promptly dispose of personal information when the purpose of collection or receipt has been achieved.
 
-## 5. 이용자 권리
+## 5. User Rights
 
-이용자는 개인정보주체로서 다음과 같은 권리를 행사할 수 있습니다.
+Users, as data subjects, may exercise the following rights:
 
-- 개인정보 열람요구
-- 오류 등이 있을 경우 정정 요구
-- 삭제요구
-- 처리정지 요구
-- 개인정보의 제3자 제공에 대한 동의 철회
+- Right to request access to personal information
+- Right to request correction of errors
+- Right to request deletion
+- Right to request suspension of processing
+- Right to withdraw consent to third-party provision of personal information
 
-## 6. 개인정보 보호책임자
+## 6. Personal Information Protection Officer
 
-Nudge AI는 개인정보 처리에 관한 업무를 총괄해서 책임지고, 개인정보 처리와 관련한 정보주체의 불만처리 및 피해구제 등을 위하여 아래와 같이 개인정보 보호책임자를 지정하고 있습니다.
+Nudge AI designates a personal information protection officer as follows to oversee personal information processing and handle complaints and remedies related to personal information processing:
 
-- 개인정보 보호책임자
-  - 성명: [이름]
-  - 직책: [직책]
-  - 연락처: [이메일]
+- Personal Information Protection Officer
+  - Name: [Name]
+  - Position: [Position]
+  - Contact: [Email]
 
-## 7. 개인정보 처리방침의 변경
+## 7. Changes to Privacy Policy
 
-이 개인정보 처리방침은 2024년 3월 24일부터 적용됩니다. 이전 개인정보 처리방침은 아래에서 확인할 수 있습니다. 
+This privacy policy is effective from March 24, 2024. Previous versions of the privacy policy can be viewed below. 
