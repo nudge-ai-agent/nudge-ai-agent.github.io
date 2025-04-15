@@ -34,7 +34,7 @@ Basic setup is complete! Now you can leverage Nudge AI further:
 
 - **Connect Email Marketing Platforms**: Utilize the emails collected by Nudge AI by [connecting with major email marketing platforms](../../features-integrations/email-marketing/index.md).
 - **Analyze Performance**: Check your email acquisition performance through the [Nudge AI Dashboard](../../analytics-management/dashboard/index.md).
-- **Explore Features**: Learn more about Nudge AI's various capabilities in the [Features & Integration](../../features-integrations/index.md) category.
+- **Explore Features**: Learn more about Nudge AI's various capabilities in the [Features & Integration](../../features-integrations/core-features/index.md) category.
 
 ## Troubleshooting
 

@@ -34,4 +34,4 @@ If you encounter issues during verification, check the following:
 3. Try clearing your theme cache:
    - Shopify admin > Online Store > Themes > Actions > Clear cache
 
-If problems persist, refer to the [Support & Troubleshooting](../../support-troubleshooting/index.md) section or contact the Nudge AI support team.
+If problems persist, refer to the [Support & Troubleshooting](../../support-troubleshooting/faq/general/index.md) section or contact the Nudge AI support team.

@@ -34,7 +34,7 @@
 
 - **이메일 마케팅 플랫폼 연동**: Nudge AI로 수집한 이메일을 [주요 이메일 마케팅 플랫폼과 연동](../../features-integrations/email-marketing/index.md)하여 활용하세요.
 - **성과 분석**: [Nudge AI 대시보드](../../analytics-management/dashboard/index.md)를 통해 이메일 획득 성과를 확인하세요.
-- **다양한 기능 탐색**: [기능 활용 및 통합](../../features-integrations/index.md) 카테고리에서 Nudge AI의 다양한 기능을 더 알아보세요.
+- **다양한 기능 탐색**: [기능 활용 및 통합](../../features-integrations/core-features/index.md) 카테고리에서 Nudge AI의 다양한 기능을 더 알아보세요.
 
 ## 문제 해결
 

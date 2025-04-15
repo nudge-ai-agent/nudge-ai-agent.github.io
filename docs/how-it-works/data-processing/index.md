@@ -22,7 +22,7 @@ Nudge AI processes personal information according to the following principles:
 - **Explicit Consent**: Obtains explicit user consent for all marketing activities (consent process included in Google One Tap).
 - **Audit Logs**: Maintains audit logs for data access and processing activities.
 
-For more details, please refer to the [Privacy Policy](../../account-policy/privacy-policy/index.md) page.
+For more details, please refer to the [Privacy Policy](../../privacy-policy.md) page.
 
 ## Data Ownership
 

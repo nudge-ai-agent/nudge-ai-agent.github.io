@@ -8,6 +8,6 @@ Nudge AI optimizes the email acquisition process on your Shopify store by combin
 
 - **[Nudge Smart Popup Guide](../../features-integrations/smart-popup/index.md):** Explains the intelligent logic where AI analyzes user behavior data to display the Google One Tap popup at the optimal timing when email subscription likelihood is high.
 
-- **[Data Processing](./data-processing/index.md):** Provides information on how Nudge AI securely collects and processes user data.
+- **[Data Processing](../data-processing/index.md):** Provides information on how Nudge AI securely collects and processes user data.
 
 You can gain a deeper understanding of Nudge AI's technological foundation and operation through each page.

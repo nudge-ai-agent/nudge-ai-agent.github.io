@@ -34,4 +34,4 @@ Nudge AI가 제대로 설치되고 설정되었는지 확인하는 방법을 안
 3. 테마 캐시를 초기화해 보세요:
    - Shopify 관리자 > 온라인 스토어 > 테마 > 액션 > 캐시 초기화
 
-문제가 지속되면 [지원 및 문제 해결](../../support-troubleshooting/index.md) 섹션을 참조하거나 Nudge AI 지원팀에 문의하세요.
+문제가 지속되면 [지원 및 문제 해결](../../support-troubleshooting/faq/general/index.md) 섹션을 참조하거나 Nudge AI 지원팀에 문의하세요.
