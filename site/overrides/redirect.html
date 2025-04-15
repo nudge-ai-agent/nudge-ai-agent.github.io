@@ -1,8 +1,0 @@
-{% extends "main.html" %}
-
-{% block content %}
-<script>
-  window.location.href = "{{ page.meta.redirect_to }}";
-</script>
-<p>Redirecting to <a href="{{ page.meta.redirect_to }}">{{ page.meta.redirect_to }}</a>...</p>
-{% endblock %} 

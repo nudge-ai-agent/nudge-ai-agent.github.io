@@ -1,8 +1,0 @@
-{% extends "base.html" %}
-{% block extrahead %}
-  {% if config.extra.alternate %}
-    {% for alt in config.extra.alternate %}
-      <link rel="alternate" href="{{ alt.link | url }}" hreflang="{{ alt.lang }}">
-    {% endfor %}
-  {% endif %}
-{% endblock %}
