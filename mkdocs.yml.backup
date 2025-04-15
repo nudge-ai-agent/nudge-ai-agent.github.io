@@ -1,0 +1,95 @@
+site_name: Nudge AI Docs
+site_url: https://help.nudgeaiapp.com/
+site_description: User guide and documentation for NudgeAI-email app on Shopify app store
+site_author: NudgeAI Team
+
+theme:
+  name: material
+  language: en
+  custom_dir: overrides
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+  logo: assets/images/logo.png
+  favicon: assets/images/logo.png
+  palette:
+    primary: '#00297a'
+    accent: '#f4ff50'
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - tables
+  - footnotes
+  - toc:
+      permalink: true
+      toc_depth: 2
+
+nav:
+  - Home: en/index.md
+  - Getting Started: en/getting-started/index.md
+  - Features & Integration: en/features-integrations/index.md
+  - Analytics & Management: en/analytics-management/index.md
+  - Account & Policy: en/account-policy/index.md
+  - Support & Troubleshooting: en/support-troubleshooting/index.md
+  - "Get the App ↗": https://apps.shopify.com/nudge-ai
+
+plugins:
+  - search
+  - i18n:
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+          nav:
+            - Home: en/index.md
+            - Getting Started: en/getting-started/index.md
+            - Features & Integration: en/features-integrations/index.md
+            - Analytics & Management: en/analytics-management/index.md
+            - Account & Policy: en/account-policy/index.md
+            - Support & Troubleshooting: en/support-troubleshooting/index.md
+            - "Get the App ↗": https://apps.shopify.com/nudge-ai
+        - locale: ko
+          name: 한국어
+          build: true
+          nav:
+            - Home: ko/index.md
+            - Getting Started: ko/getting-started/index.md
+            - Features & Integration: ko/features-integrations/index.md
+            - Analytics & Management: ko/analytics-management/index.md
+            - Account & Policy: ko/account-policy/index.md
+            - Support & Troubleshooting: ko/support-troubleshooting/index.md
+            - "Get the App ↗": https://apps.shopify.com/nudge-ai
+          nav_translations:
+            Home: 홈
+            Getting Started: 시작하기
+            Features & Integration: 기능 활용 및 통합
+            Analytics & Management: 성과 분석 및 관리
+            Account & Policy: 계정 및 정책
+            Support & Troubleshooting: 지원 및 문제 해결
+            "Get the App ↗": 앱 다운로드 ↗
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/external-links.js
+  - javascripts/redirect.js
+
+extra:
+  social:
+    - icon: fontawesome/brands/shopify
+      link: https://apps.shopify.com/
+      name: NudgeAI on Shopify App Store
+  alternate:
+    - name: 한국어
+      link: /ko/ko/
+      lang: ko
+    - name: English
+      link: /
+      lang: en

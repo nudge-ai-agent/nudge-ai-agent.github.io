@@ -1,155 +1,157 @@
-# 개인정보 취급방침
+# Privacy Policy
 
-## 회사 소개
-Uneedcomms(이하 "회사")는 대한민국 서울에 기반을 둔 회사로, NudgeAI 서비스를 제공합니다. 당사는 고객 등록 프로세스를 간소화하고 판매자가 목표 고객층과 더 효과적으로 소통할 수 있도록 돕는 Shopify 앱을 제공하는 전문 기업입니다. 당사의 실제 주소는 대한민국 서울특별시 마포구 양화로 81, L105이며, 연락 이메일은 support@nudgeaiapp.com입니다.
+## Company Introduction
 
-## 수집하는 정보의 유형
-당사는 두 가지 주요 사용자 그룹으로부터 개인정보를 수집합니다:
+Uneedcomms (hereinafter referred to as "the Company") is a company based in Seoul, South Korea, providing NudgeAI services. We are a specialized company offering Shopify apps that simplify customer registration processes and help sellers communicate more effectively with their target audience. Our physical address is L105, 81 Yanghwa-ro, Mapo-gu, Seoul, South Korea, and our contact email is support@nudgeaiapp.com.
 
-### 1. Shopify 이커머스 사업자(직접 고객)
-NudgeAI 서비스를 사용하는 Shopify 이커머스 사업자로부터 당사는 다음 정보를 수집합니다:
-- 이메일 주소
-- 이름 및 성
-- 비즈니스 정보
-- 연락처 정보
-- 결제 정보
-- Shopify 스토어 정보
+## Types of Information Collected
 
-이 정보는 서비스 제공, 기술 지원, 계정 관리, 결제 처리, 그리고 당사 제품 및 서비스에 관한 마케팅 커뮤니케이션 제공 목적으로 사용됩니다.
+We collect personal information from two major user groups:
 
-### 2. 이커머스 사업자의 고객(최종 사용자)
-당사는 NudgeAI 서비스를 통해 이커머스 사업자의 고객으로부터 다음 정보를 수집합니다:
-- 이메일 주소
-- 이름 및 성
-- 소셜 네트워크 프로필 사진(선택적)
-- 마케팅 이메일 구독 동의 여부
-- 구독 획득 시간 및 날짜
+### 1. Shopify E-commerce Businesses (Direct Customers)
 
-또한, 온사이트 마케팅 기능을 위해 다음과 같은 행동 데이터를 수집할 수 있습니다:
-- 방문 페이지 정보
-- 조회한 상품 정보
-- 장바구니에 담은 상품 정보
-- 구매 이력
-- 브라우저 및 기기 정보
-- IP 주소
-- 쿠키 및 유사 기술을 통한 브라우저 식별 정보
+From Shopify e-commerce businesses using NudgeAI services, we collect the following information: - Email address - First and last name - Business information - Contact information - Payment information - Shopify store information
 
-이 정보는 Google One Tap Sign-in을 포함한 소셜 로그인 서비스를 제공하고, 이커머스 사업자의 가격 플랜을 관리하며, 맞춤형 온사이트 마케팅 메시지를 제공하기 위한 목적으로 수집됩니다. 당사는 획득한 마케팅 구독 이메일 수에 따라 이커머스 사업자에게 적용되는 가격 플랜을 결정합니다.
+This information is used for service provision, technical support, account management, payment processing, and providing marketing communications about our products and services.
 
-만약 귀하가 13세 미만인 경우, 당사 서비스에 등록을 시도하거나 개인 정보를 보내지 마십시오. 부모 동의 없이 13세 미만 아동의 개인 정보를 수집했다는 사실을 알게 된 경우, 해당 정보를 최대한 빨리 삭제할 것입니다. 13세 미만 아동의 정보를 당사가 보유하고 있다고 생각되는 경우, support@nudgeaiapp.com으로 연락해 주시기 바랍니다.
+### 2. E-commerce Businesses' Customers (End Users)
 
-## Google One Tap Sign-In 사용
-당사는 Google One Tap Sign-In(또는 Google OAuth)을 통한 로그인 옵션을 제공합니다. 이 방법을 선택함으로써, 귀하는 허용하는 권한(예: 기본 프로필 데이터)에 따라 이메일 주소, 이름, 프로필 이미지 등과 같은 Google 계정의 특정 정보에 대한 접근 권한을 당사에 부여합니다. 당사는 이 정보를 등록 또는 로그인 과정을 간소화하고, 요청된 서비스를 제공하며, 전반적인 사용자 경험을 향상시키는 목적으로만 사용합니다.
+Through NudgeAI services, we collect the following information from the customers of e-commerce businesses: - Email address - First and last name - Social network profile pictures (optional) - Marketing email subscription consent status - Subscription acquisition time and date
 
-언제든지 당사 애플리케이션이 귀하의 Google 계정에 접근하는 것을 원치 않으시면, Google 계정 설정("보안" > "계정 접근 권한이 있는 타사 앱" 항목에서 찾을 수 있음)에서 이 권한을 취소할 수 있습니다. 권한이 취소되면, 당사는 더 이상 귀하의 Google 계정에서 추가 정보를 수집할 수 없게 됩니다.
+Additionally, for on-site marketing features, we may collect the following behavioral data: - Visited page information - Viewed product information - Cart item information - Purchase history - Browser and device information - IP address - Browser identification information through cookies and similar technologies
 
-당사는 귀하의 명시적 동의 없이 Google One Tap Sign-In을 통해 수집한 정보를 타겟 광고나 마케팅 목적으로 사용하지 않습니다. Google OAuth를 통해 얻은 모든 데이터는 이 정책에 명시된 것과 동일한 수준의 보호와 개인정보 취급 원칙을 적용받습니다.
+This information is collected to provide social login services including Google One Tap Sign-in, manage e-commerce businesses' pricing plans, and provide customized on-site marketing messages. We determine the pricing plan applicable to an e-commerce business based on the number of marketing subscription emails acquired.
 
-## 쿠키
-쿠키는 고유 식별자를 포함할 수 있는 작은 데이터 파일입니다. 쿠키는 웹사이트에서 귀하의 브라우저로 전송되어 귀하의 기기 하드 드라이브에 저장됩니다. 당사는 서비스의 특정 기능을 활성화하고, 서비스와의 상호작용을 이해하며, 웹 트래픽을 모니터링하기 위해 세션 ID 쿠키를 사용합니다. 귀하는 브라우저에게 모든 쿠키를 거부하거나 쿠키가 전송될 때 알림을 표시하도록 지시할 수 있습니다. 그러나 쿠키를 거부하시면, 당사 서비스의 일부 기능이 제대로 작동하지 않을 수 있습니다.
+If you are under 13 years of age, please do not attempt to register for our services or send any personal information. If we learn that we have collected personal information from a child under 13 without parental consent, we will delete that information as quickly as possible. If you believe we may have information from a child under 13, please contact us at support@nudgeaiapp.com.
 
-## 정보 사용 목적
-당사가 정보를 수집하는 목적은 수집 대상에 따라 다릅니다:
+## Use of Google One Tap Sign-In
 
-### 1. Shopify 이커머스 사업자(직접 고객)의 정보 사용
-- 서비스 계약 이행 및 기술 지원 제공
-- 계정 관리 및 결제 처리
-- 서비스 개선 및 새로운 기능 개발
-- 마케팅 및 프로모션 목적의 커뮤니케이션 제공 (동의한 경우)
-- 법적 의무 준수 및 권리 보호
+We offer a login option through Google One Tap Sign-In (or Google OAuth). By choosing this method, you grant us access to certain information from your Google account, such as email address, name, and profile image, according to the permissions you allow (e.g., basic profile data). We use this information solely to simplify the registration or login process, provide requested services, and enhance the overall user experience.
 
-### 2. 이커머스 사업자의 고객(최종 사용자)의 정보 사용
-- Google One Tap Sign-In을 포함한 소셜 로그인 서비스 제공
-- 이커머스 사업자의 고객 경험 최적화 지원
-- 구독 이메일 획득 수에 따른 이커머스 사업자의 가격 플랜 결정을 위한 데이터 관리
-- 맞춤형 온사이트 마케팅 메시지 제공을 위한 행동 데이터 분석
-- 고객의 쇼핑 경험 개선과 전환율 향상을 위한 행동 패턴 분석
-- 서비스 성능 분석 및 개선
+If at any time you do not want our application to access your Google account, you can revoke this permission in your Google account settings (found under "Security" > "Third-party apps with account access"). Once the permission is revoked, we will no longer be able to collect additional information from your Google account.
 
-당사는 관련 법률에 따라 필요한 경우 사전 동의를 얻지 않고 광고나 마케팅 목적으로 개인 정보를 사용하지 않습니다.
+We do not use information collected through Google One Tap Sign-In for targeted advertising or marketing purposes without your explicit consent. All data obtained through Google OAuth receives the same level of protection and privacy handling principles as stated in this policy.
 
-## 구독 기반 가격 책정 모델
-당사의 서비스는 이커머스 사업자가 당사 플랫폼을 통해 획득한 구독 이메일 수에 따른 단계별 가격 책정 모델을 사용합니다. 이 가격 구조를 원활히 운영하기 위해, 당사는 이커머스 사업자의 고객으로부터 다음 정보를 수집하고 저장합니다:
-- 이메일 주소
-- 마케팅 동의 상태
-- 구독 획득 시간 및 날짜
+## Cookies
 
-이 정보는 이커머스 사업자에게 적절한 가격 책정 단계를 계산하고 정확한 청구를 제공하는 데 사용됩니다. 당사는 이 데이터를 집계된 형태로 분석하여 각 이커머스 사업자가 획득한 유효 마케팅 구독 이메일의 총 수를 계산합니다. 구체적인 가격 책정 단계와 세부 정보는 당사의 서비스 이용약관이나 가격 책정 페이지에서 확인하실 수 있습니다.
+Cookies are small data files that may contain unique identifiers. Cookies are sent from websites to your browser and stored on your device's hard drive. We use session ID cookies to enable certain features of our service, understand your interactions with our services, and monitor web traffic. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent. However, if you reject cookies, some features of our services may not function properly.
 
-## 온사이트 마케팅 및 행동 분석
-당사의 NudgeAI 서비스는 온사이트 마케팅 기능을 제공하여 이커머스 사업자가 고객의 행동을 분석하고 맞춤형 메시지를 통해 다음 행동을 설득/유도할 수 있도록 합니다. 이 기능을 위해 다음과 같은 정보를 수집하고 처리합니다:
+## Purpose of Information Use
 
-### 수집하는 행동 데이터
-- 웹사이트 내 탐색 패턴 및 방문 페이지
-- 상품 조회 이력
-- 장바구니 활동(추가, 삭제, 방치)
-- 구매 이력 및 패턴
-- 체류 시간
-- 클릭 활동
-- 브라우저 및 기기 정보
-- IP 주소(위치 정보 추정 목적)
+The purposes for which we collect information vary depending on the collection target:
 
-### 데이터 사용 방법
-이 데이터는 다음과 같은 목적으로 사용됩니다:
-- 고객의 쇼핑 여정 분석
-- 개인화된 제안 및 프로모션 메시지 표시
-- 장바구니 이탈 방지를 위한 리마인더 제공
-- 맞춤형 상품 추천
-- 전환율 최적화를 위한 타이밍 및 메시지 조정
+### 1. Use of Information from Shopify E-commerce Businesses (Direct Customers)
 
-### 데이터 처리 및 보관
-행동 데이터는 개별 이커머스 사업자의 고객들에 대해서만 분석되며, 익명화된 형태로 집계 분석을 위해 사용될 수 있습니다. 이 데이터는 서비스 제공 기간 동안 보관되며, 이커머스 사업자와의 계약 종료 후 최대 6개월간 보관될 수 있습니다.
+Fulfilling service agreements and providing technical support
+Account management and payment processing
+Service improvement and new feature development
+Providing marketing and promotional communications (if consented)
+Compliance with legal obligations and protection of rights
 
-### 데이터 공유
-수집된 행동 데이터는 해당 이커머스 사업자에게만 제공되며, 제3자와 공유되지 않습니다. 다만, 집계된 통계 정보는 서비스 개선 목적으로 내부적으로 사용될 수 있습니다.
+### 2. Use of Information from E-commerce Businesses' Customers (End Users)
 
-### 옵트아웃 옵션
-이커머스 사업자의 고객은 브라우저 설정을 통해 쿠키를 비활성화하거나, 관련 법률에 따라 제공되는 옵트아웃 메커니즘을 통해 행동 추적을 거부할 수 있습니다.
+Providing social login services including Google One Tap Sign-In
+Supporting the optimization of e-commerce businesses' customer experience
+Managing data for determining e-commerce businesses' pricing plans based on the number of subscription emails acquired
+Analyzing behavioral data for providing customized on-site marketing messages
+Analyzing behavioral patterns to improve customers' shopping experience and increase conversion rates
+Service performance analysis and improvement
 
-## 이메일 마케팅 및 프로모션 커뮤니케이션
-### Shopify 이커머스 사업자에 대한 마케팅
-당사는 NudgeAI 서비스를 사용하는 Shopify 이커머스 사업자의 이메일 주소나 기타 연락처 정보를 사용하여 당사 서비스, 새로운 기능, 또는 특별 제안에 관한 마케팅 또는 프로모션 커뮤니케이션을 간헐적으로 보낼 수 있습니다. 이는 해당 법률 및 규정에 따라서만 진행되며, 언제든지 이러한 커뮤니케이션 수신을 거부할 수 있는 명확한 방법을 제공해 드립니다.
+We do not use personal information for advertising or marketing purposes without obtaining prior consent, as required by relevant laws.
 
-당사 서비스에 등록할 때, 명확한 체크박스나 유사한 방식을 통해 마케팅 커뮤니케이션을 수신하도록 선택할 기회가 제공됩니다. 관련 법률에서 허용하는 경우를 제외하고, 이커머스 사업자가 명시적으로 수신을 선택하지 않으면 마케팅 커뮤니케이션을 보내지 않습니다. 동의 상태는 계정 정보와 함께 기록되고 저장됩니다.
+## Subscription-Based Pricing Model
 
-### 이커머스 사업자의 고객 데이터
-당사는 이커머스 사업자의 고객 데이터를 직접적인 마케팅 목적으로 사용하지 않습니다. 이 정보는 오직 이커머스 사업자의 서비스 제공 및 가격 플랜 관리를 위해서만 사용됩니다.
+Our service uses a tiered pricing model based on the number of subscription emails acquired by e-commerce businesses through our platform. To operate this pricing structure smoothly, we collect and store the following information from e-commerce businesses' customers: - Email address - Marketing consent status - Subscription acquisition time and date
 
-마케팅 메시지를 수신 거부하더라도, 당사는 여전히 트랜잭션이나 서비스 관련 커뮤니케이션(예: 계정 알림이나 지원 메시지)을 보낼 수 있음을 참고해 주십시오.
+This information is used to calculate the appropriate pricing tier for e-commerce businesses and provide accurate billing. We analyze this data in an aggregated form to calculate the total number of valid marketing subscription emails acquired by each e-commerce business. Specific pricing tiers and details can be found in our service terms of use or pricing page.
 
-## 정보 공개
-귀하가 제공하는 모든 개인 정보는 귀하의 거주 국가 외부에 위치할 수 있는 Amazon Web Services(AWS) 데이터 센터에 안전하게 저장됩니다. 당사는 법률이나 규정에서 요구하는 경우를 제외하고 귀하에 관한 개인 정보를 다른 개인이나 회사에 대여, 판매 또는 공유하지 않습니다. 당사는 법적으로 요구되지 않는 한, 귀하의 개인 데이터가 무단 기관이나 정부 기관에 공개되지 않도록 모든 합리적인 노력을 기울입니다.
+## On-Site Marketing and Behavioral Analysis
 
-## 데이터 보안
-당사는 귀하의 개인 정보를 무단 접근, 우발적 손실, 변경, 공개 또는 파괴로부터 보호하기 위해 적절한 기술적, 조직적 조치를 구현합니다. 이러한 조치에는 민감한 데이터의 암호화, 정기적인 보안 평가, 접근 제어, 데이터 보호 관행에 관한 직원 교육 등이 포함됩니다.
+Our NudgeAI service provides on-site marketing features that allow e-commerce businesses to analyze customer behavior and persuade/guide next actions through customized messages. For this feature, we collect and process the following information:
 
-당사는 상업적으로 허용 가능한 방법을 사용하여 귀하의 개인 정보를 보호하기 위해 노력하지만, 인터넷을 통한 전송이나 전자 저장 방법은 100% 안전하지 않습니다. 따라서 당사는 절대적인 보안을 보장할 수 없습니다.
+## Behavioral Data Collected
 
-## 데이터 보관 기간
-당사는 이 개인정보 취급방침에 명시된 목적을 달성하는 데 필요한 기간 동안, 또는 법률에 의해 더 긴 보관 기간이 요구되거나 허용되지 않는 한 귀하의 개인 정보를 보관합니다. 당사 서비스를 통해 등록한 사용자의 경우, 일반적으로 계정 정보를 귀하와의 활발한 관계 기간 동안, 그리고 계정 폐쇄 또는 마지막 활동 후 추가로 12개월 동안 보관합니다. 이메일 구독 데이터의 경우, 구독이 활성화되어 있는 동안, 그리고 스팸 방지법 준수 및 분석 목적으로 구독 취소 후 6개월 동안 이 정보를 보관합니다.
+Website navigation patterns and visited pages
+Product viewing history
+Cart activities (add, remove, abandon)
+Purchase history and patterns
+Time spent
+Click activities
+Browser and device information
+IP address (for location information estimation purposes)
 
-귀하는 "정보 변경 또는 삭제" 섹션에 설명된 대로 당사에 연락하여 언제든지 귀하의 데이터 삭제를 요청할 수 있습니다.
+## How Data is Used
 
-## 국제 데이터 전송
-당사의 서비스는 Shopify 플랫폼을 통해 전 세계적으로 제공되므로, 귀하의 개인 정보는 귀하가 거주하는 국가 이외의 국가로 전송되어 저장되고 처리될 수 있습니다. 당사 서비스를 사용함으로써, 귀하는 귀하의 개인 정보가 귀하의 거주 국가 외부에 위치한 AWS 데이터 센터로 전송될 수 있으며, 여기에는 귀하의 국가와 다른 데이터 보호 규칙을 가진 국가가 포함될 수 있음을 인정합니다.
+This data is used for the following purposes: - Analyzing customers' shopping journey - Displaying personalized offers and promotional messages - Providing reminders to prevent cart abandonment - Customized product recommendations - Adjusting timing and messages to optimize conversion rates
 
-### 유럽 경제 지역(EEA) 사용자
-귀하가 EEA에 위치한 경우, 당사는 그러한 전송이 일반 데이터 보호 규정(GDPR)을 포함한 해당 데이터 보호법에 따라 수행되도록 보장합니다. 당사는 국제적으로 전송될 때 귀하의 정보를 보호하기 위해 유럽 위원회에서 승인한 표준 계약 조항과 같은 적절한 안전장치를 사용합니다.
+## Data Processing and Storage
 
-### 캘리포니아 사용자
-귀하가 캘리포니아 거주자인 경우, 캘리포니아 소비자 개인정보 보호법(CCPA)에 따라 추가적인 권리를 가질 수 있습니다. 자세한 정보는 아래의 캘리포니아 개인정보 권리 섹션을 참조하거나 당사에 문의하십시오.
+Behavioral data is analyzed only for customers of individual e-commerce businesses and may be used for aggregate analysis in anonymized form. This data is retained during the service provision period and may be retained for up to 6 months after the termination of the contract with the e-commerce business.
 
-### 한국 사용자
-귀하가 대한민국 거주자인 경우, 귀하의 개인 정보는 개인정보 보호법(PIPA)에 의해 보호됩니다. 당사는 귀하의 개인 정보의 수집, 사용 및 보호에 관한 PIPA의 모든 요구 사항을 준수합니다.
+## Data Sharing
 
-## 정보 변경 또는 삭제
-NudgeAI 서비스에 계정을 생성한 경우, 해당 Shopify 스토어의 "계정" 페이지에 로그인하거나 support@nudgeaiapp.com으로 문의하여 프로필을 검토, 업데이트 또는 삭제할 수 있습니다. 당사는 법률에서 요구하거나 정당한 비즈니스 목적을 위해 기록의 보관 사본을 유지할 수 있습니다. 당사가 보유한 귀하에 관한 정보 삭제를 원하시면 support@nudgeaiapp.com으로 이메일을 보내주십시오.
+Collected behavioral data is provided only to the respective e-commerce business and is not shared with third parties. However, aggregated statistical information may be used internally for service improvement purposes.
 
-Google 계정에 대한 당사의 접근 권한을 취소하기로 선택한 경우, 당사는 더 이상 귀하의 계정에서 새 데이터를 수집하지 않습니다. 그러나 이전에 수집된 데이터의 삭제를 원하시면 당사 시스템에서 제거하도록 요청하는 것은 귀하의 책임입니다.
+## Opt-Out Options
 
-## 연락처
-이 개인정보 취급방침에 관한 질문, 의견, 또는 요청이 있으시면 아래 주소로 연락해 주십시오:
+Customers of e-commerce businesses can refuse behavioral tracking by disabling cookies through browser settings or through opt-out mechanisms provided in accordance with relevant laws.
 
-Uneedcomms (NudgeAI 서비스)  
-대한민국 서울특별시 마포구 양화로 81, L105  
-이메일: support@nudgeaiapp.com
+## Email Marketing and Promotional Communications
+
+### Marketing to Shopify E-commerce Businesses
+
+We may occasionally use the email address or other contact information of Shopify e-commerce businesses using NudgeAI services to send marketing or promotional communications about our services, new features, or special offers. This is only done in accordance with applicable laws and regulations, and we provide clear methods to opt-out of receiving such communications at any time.
+
+When registering for our service, you are provided with an opportunity to opt-in to receive marketing communications through a clear checkbox or similar method. Except where permitted by relevant laws, we do not send marketing communications unless the e-commerce business explicitly opts in. Consent status is recorded and stored with account information.
+
+### E-commerce Businesses' Customer Data
+
+We do not use e-commerce businesses' customer data for direct marketing purposes. This information is used solely for providing services to e-commerce businesses and managing price plans.
+
+Please note that even if you opt-out of marketing messages, we may still send transactional or service-related communications (e.g., account notifications or support messages).
+
+## Information Disclosure
+
+All personal information you provide is securely stored in Amazon Web Services (AWS) data centers, which may be located outside your country of residence. We do not rent, sell, or share personal information about you with other individuals or companies, except as required by laws or regulations. We make all reasonable efforts to ensure that your personal data is not disclosed to unauthorized entities or government agencies unless legally required to do so.
+
+## Data Security
+
+We implement appropriate technical and organizational measures to protect your personal information from unauthorized access, accidental loss, alteration, disclosure, or destruction. These measures include encryption of sensitive data, regular security assessments, access controls, and employee training on data protection practices.
+
+While we strive to protect your personal information using commercially acceptable methods, no method of transmission over the Internet or electronic storage is 100% secure. Therefore, we cannot guarantee absolute security.
+
+## Data Retention Period
+
+We retain your personal information for as long as necessary to fulfill the purposes outlined in this Privacy Policy, or as required or permitted by law for a longer retention period. For users registered through our services, we typically retain account information during the period of your active relationship with us, and for an additional 12 months after account closure or last activity. For email subscription data, we retain this information while the subscription is active, and for 6 months after unsubscription for anti-spam law compliance and analytical purposes.
+
+You can request deletion of your data at any time by contacting us as described in the "Information Modification or Deletion" section.
+
+## International Data Transfers
+
+As our services are provided globally through the Shopify platform, your personal information may be transferred to, stored, and processed in countries other than your country of residence. By using our services, you acknowledge that your personal information may be transferred to AWS data centers located outside your country of residence, which may include countries with different data protection rules than your country.
+
+## European Economic Area (EEA) Users
+
+If you are located in the EEA, we ensure that such transfers are performed in accordance with applicable data protection laws, including the General Data Protection Regulation (GDPR). We use appropriate safeguards, such as standard contractual clauses approved by the European Commission, to protect your information when transferred internationally.
+
+### California Users
+
+If you are a California resident, you may have additional rights under the California Consumer Privacy Act (CCPA). For more information, please refer to the California Privacy Rights section below or contact us.
+
+### Korean Users
+
+If you are a resident of South Korea, your personal information is protected by the Personal Information Protection Act (PIPA). We comply with all PIPA requirements regarding the collection, use, and protection of your personal information.
+
+## Information Modification or Deletion
+
+If you have created an account with NudgeAI services, you can review, update, or delete your profile by logging into the "Account" page of the respective Shopify store or by contacting support@nudgeaiapp.com. We may maintain archival copies of records as required by law or for legitimate business purposes. If you wish to delete information about you that we hold, please email support@nudgeaiapp.com.
+
+If you choose to revoke our access to your Google account, we will no longer collect new data from your account. However, it is your responsibility to request removal from our systems if you want previously collected data to be deleted.
+
+## Contact Information
+
+If you have questions, comments, or requests regarding this Privacy Policy, please contact us at:
+
+Uneedcomms (NudgeAI Service)
+L105, 81 Yanghwa-ro, Mapo-gu, Seoul, South Korea
+Email: support@nudgeaiapp.com 

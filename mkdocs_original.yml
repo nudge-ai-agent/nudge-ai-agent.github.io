@@ -1,0 +1,250 @@
+site_name: Nudge AI Docs
+site_url: https://help.nudgeaiapp.com/
+site_description: User guide and documentation for NudgeAI-email app on Shopify app store
+site_author: NudgeAI Team
+
+theme:
+  name: material
+  language: en
+  custom_dir: docs/overrides
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - content.action.edit
+    - content.action.view
+  logo: assets/images/logo.png
+  favicon: assets/images/logo.png
+  palette:
+    primary: '#00297a'
+    accent: '#f4ff50'
+  font:
+    text: Helvetica
+    code: Roboto Mono
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - tables
+  - footnotes
+  - toc:
+      permalink: true
+      toc_depth: 2
+
+nav:
+  - Home: en/index.md
+  - Getting Started:
+    - About Nudge AI:
+      - What is Nudge AI?: en/getting-started/introduction/what-is-nudge-ai.md
+      - Features at a Glance: en/getting-started/introduction/features-overview.md
+      - Pre-installation Requirements: en/getting-started/introduction/prerequisites.md
+    - Installation & Setup:
+      - Shopify App Installation Guide: en/getting-started/installation/shopify-app-install.md
+      - "[Required] Legacy Customer Account Activation": en/getting-started/installation/legacy-account.md
+      - "[Required] App Embed Activation": en/getting-started/installation/app-embed.md
+      - Installation and Setup Verification: en/getting-started/installation/verification.md
+  - Features & Integration:
+    - Core Features:
+      - Google One Tap Guide: en/features-integrations/core-features/google-one-tap.md
+      - Nudge Smart Pop-up Guide: en/features-integrations/core-features/smart-popup.md
+      - Feature Best Practices: en/features-integrations/core-features/best-practices.md
+    - External Integrations:
+      - Shopify Theme Compatibility: en/features-integrations/integrations/theme-compatibility.md
+      - Email Marketing Platform Integration: en/features-integrations/integrations/email-platforms.md
+      - Compatibility with Other Apps: en/features-integrations/integrations/other-apps.md
+  - Analytics & Management:
+    - Performance Analytics:
+      - Using the Nudge AI Dashboard: en/analytics-management/analytics/dashboard.md
+      - Leveraging Shopify Customer Tags: en/analytics-management/analytics/customer-tags.md
+      - (Coming Soon) Conversion Analysis: en/analytics-management/analytics/conversion-analysis.md
+    - Email Quota Management:
+      - Checking Email Limits by Plan: en/analytics-management/limit-management/check-limit.md
+      - What to Do When Limits Are Reached: en/analytics-management/limit-management/limit-actions.md
+  - Account & Policy:
+    - Plans & Billing:
+      - Plan Comparison Guide: en/account-policy/pricing-billing/plans-comparison.md
+      - 14-Day Free Trial: en/account-policy/pricing-billing/free-trial.md
+      - Payment and Invoice Management: en/account-policy/pricing-billing/billing-management.md
+      - Changing Your Plan: en/account-policy/pricing-billing/change-plan.md
+      - Cancellation Policy: en/account-policy/pricing-billing/cancellation.md
+    - Data & Security Policy:
+      - Data Security Technology: en/account-policy/data-security/security-policy.md
+      - Privacy Policy: en/account-policy/data-security/privacy-policy.md
+      - Customer Data Ownership: en/account-policy/data-security/data-ownership.md
+  - Support & Troubleshooting:
+    - FAQ:
+      - General FAQ: en/support-troubleshooting/faq/general-faq.md
+      - Installation/Setup FAQ: en/support-troubleshooting/faq/setup-faq.md
+      - Feature FAQ: en/support-troubleshooting/faq/feature-faq.md
+    - Troubleshooting Guide:
+      - Error Message Solutions: en/support-troubleshooting/troubleshooting/error-messages.md
+      - Common Issues and Tips: en/support-troubleshooting/troubleshooting/common-issues.md
+    - Contact Us:
+      - Support Channels: en/support-troubleshooting/contact/channels.md
+      - Feedback and Feature Requests: en/support-troubleshooting/contact/feedback.md
+  - Get the App ↗: https://apps.shopify.com/nudge-ai
+
+plugins:
+  - meta
+  - search
+  - i18n:
+      languages:
+        - locale: en
+          name: English
+          build: true
+          default: true
+          nav:
+            - Home: en/index.md
+            - Getting Started:
+              - About Nudge AI:
+                - What is Nudge AI?: en/getting-started/introduction/what-is-nudge-ai.md
+                - Features at a Glance: en/getting-started/introduction/features-overview.md
+                - Pre-installation Requirements: en/getting-started/introduction/prerequisites.md
+              - Installation & Setup:
+                - Shopify App Installation Guide: en/getting-started/installation/shopify-app-install.md
+                - "[Required] Legacy Customer Account Activation": en/getting-started/installation/legacy-account.md
+                - "[Required] App Embed Activation": en/getting-started/installation/app-embed.md
+                - Installation and Setup Verification: en/getting-started/installation/verification.md
+            - Features & Integration:
+              - Core Features:
+                - Google One Tap Guide: en/features-integrations/core-features/google-one-tap.md
+                - Nudge Smart Pop-up Guide: en/features-integrations/core-features/smart-popup.md
+                - Feature Best Practices: en/features-integrations/core-features/best-practices.md
+              - External Integrations:
+                - Shopify Theme Compatibility: en/features-integrations/integrations/theme-compatibility.md
+                - Email Marketing Platform Integration: en/features-integrations/integrations/email-platforms.md
+                - Compatibility with Other Apps: en/features-integrations/integrations/other-apps.md
+            - Analytics & Management:
+              - Performance Analytics:
+                - Using the Nudge AI Dashboard: en/analytics-management/analytics/dashboard.md
+                - Leveraging Shopify Customer Tags: en/analytics-management/analytics/customer-tags.md
+                - (Coming Soon) Conversion Analysis: en/analytics-management/analytics/conversion-analysis.md
+              - Email Quota Management:
+                - Checking Email Limits by Plan: en/analytics-management/limit-management/check-limit.md
+                - What to Do When Limits Are Reached: en/analytics-management/limit-management/limit-actions.md
+            - Account & Policy:
+              - Plans & Billing:
+                - Plan Comparison Guide: en/account-policy/pricing-billing/plans-comparison.md
+                - 14-Day Free Trial: en/account-policy/pricing-billing/free-trial.md
+                - Payment and Invoice Management: en/account-policy/pricing-billing/billing-management.md
+                - Changing Your Plan: en/account-policy/pricing-billing/change-plan.md
+                - Cancellation Policy: en/account-policy/pricing-billing/cancellation.md
+              - Data & Security Policy:
+                - Data Security Technology: en/account-policy/data-security/security-policy.md
+                - Privacy Policy: en/account-policy/data-security/privacy-policy.md
+                - Customer Data Ownership: en/account-policy/data-security/data-ownership.md
+            - Support & Troubleshooting:
+              - FAQ:
+                - General FAQ: en/support-troubleshooting/faq/general-faq.md
+                - Installation/Setup FAQ: en/support-troubleshooting/faq/setup-faq.md
+                - Feature FAQ: en/support-troubleshooting/faq/feature-faq.md
+              - Troubleshooting Guide:
+                - Error Message Solutions: en/support-troubleshooting/troubleshooting/error-messages.md
+                - Common Issues and Tips: en/support-troubleshooting/troubleshooting/common-issues.md
+              - Contact Us:
+                - Support Channels: en/support-troubleshooting/contact/channels.md
+                - Feedback and Feature Requests: en/support-troubleshooting/contact/feedback.md
+              - Get the App ↗: 앱 다운로드 ↗
+              # 서브 메뉴 번역
+              About Nudge AI: Nudge AI 소개
+              Installation & Setup: 설치 및 초기 설정
+              Core Features: 핵심 기능 활용법
+              External Integrations: 외부 서비스 연동
+              Performance Analytics: 성과 측정 및 분석
+              Email Quota Management: 이메일 한도 관리
+              Plans & Billing: 요금제 및 결제
+              Data & Security Policy: 데이터 및 보안 정책
+              FAQ: 자주 묻는 질문 (FAQ)
+              Troubleshooting Guide: 문제 해결 가이드
+              Contact Us: 문의하기
+          nav_translations:
+            Home: Home
+            Getting Started: Getting Started
+            Features & Integration: Features & Integration
+            Analytics & Management: Analytics & Management
+            Account & Policy: Account & Policy
+            Support & Troubleshooting: Support & Troubleshooting
+            Get the App ↗: Get the App ↗
+        - locale: ko
+          name: 한국어
+          build: true
+          nav:
+            - Home: ko/index.md
+            - Getting Started:
+              - About Nudge AI:
+                - What is Nudge AI?: ko/getting-started/introduction/what-is-nudge-ai.md
+                - Features at a Glance: ko/getting-started/introduction/features-overview.md
+                - Pre-installation Requirements: ko/getting-started/introduction/prerequisites.md
+              - Installation & Setup:
+                - Shopify App Installation Guide: ko/getting-started/installation/shopify-app-install.md
+                - "[Required] Legacy Customer Account Activation": ko/getting-started/installation/legacy-account.md
+                - "[Required] App Embed Activation": ko/getting-started/installation/app-embed.md
+                - Installation and Setup Verification: ko/getting-started/installation/verification.md
+            - Features & Integration:
+              - Core Features:
+                - Google One Tap Guide: ko/features-integrations/core-features/google-one-tap.md
+                - Nudge Smart Pop-up Guide: ko/features-integrations/core-features/smart-popup.md
+                - Feature Best Practices: ko/features-integrations/core-features/best-practices.md
+              - External Integrations:
+                - Shopify Theme Compatibility: ko/features-integrations/integrations/theme-compatibility.md
+                - Email Marketing Platform Integration: ko/features-integrations/integrations/email-platforms.md
+                - Compatibility with Other Apps: ko/features-integrations/integrations/other-apps.md
+            - Analytics & Management:
+              - Performance Analytics:
+                - Using the Nudge AI Dashboard: ko/analytics-management/analytics/dashboard.md
+                - Leveraging Shopify Customer Tags: ko/analytics-management/analytics/customer-tags.md
+                - (Coming Soon) Conversion Analysis: ko/analytics-management/analytics/conversion-analysis.md
+              - Email Quota Management:
+                - Checking Email Limits by Plan: ko/analytics-management/limit-management/check-limit.md
+                - What to Do When Limits Are Reached: ko/analytics-management/limit-management/limit-actions.md
+            - Account & Policy:
+              - Plans & Billing:
+                - Plan Comparison Guide: ko/account-policy/pricing-billing/plans-comparison.md
+                - 14-Day Free Trial: ko/account-policy/pricing-billing/free-trial.md
+                - Payment and Invoice Management: ko/account-policy/pricing-billing/billing-management.md
+                - Changing Your Plan: ko/account-policy/pricing-billing/change-plan.md
+                - Cancellation Policy: ko/account-policy/pricing-billing/cancellation.md
+              - Data & Security Policy:
+                - Data Security Technology: ko/account-policy/data-security/security-policy.md
+                - Privacy Policy: ko/account-policy/data-security/privacy-policy.md
+                - Customer Data Ownership: ko/account-policy/data-security/data-ownership.md
+            - Support & Troubleshooting:
+              - FAQ:
+                - General FAQ: ko/support-troubleshooting/faq/general-faq.md
+                - Installation/Setup FAQ: ko/support-troubleshooting/faq/setup-faq.md
+                - Feature FAQ: ko/support-troubleshooting/faq/feature-faq.md
+              - Troubleshooting Guide:
+                - Error Message Solutions: ko/support-troubleshooting/troubleshooting/error-messages.md
+                - Common Issues and Tips: ko/support-troubleshooting/troubleshooting/common-issues.md
+              - Contact Us:
+                - Support Channels: ko/support-troubleshooting/contact/channels.md
+                - Feedback and Feature Requests: ko/support-troubleshooting/contact/feedback.md
+            - Get the App ↗: https://apps.shopify.com/nudge-ai
+          nav_translations:
+            Home: 홈
+            Getting Started: 시작하기
+            Features & Integration: 기능 활용 및 통합
+            Analytics & Management: 성과 분석 및 관리
+            Account & Policy: 계정 및 정책
+            Support & Troubleshooting: 지원 및 문제 해결
+            Get the App ↗: 앱 다운로드 ↗
+            # 서브 메뉴 번역
+            What is Nudge AI?: Nudge AI란 무엇인가요?
+            Features at a Glance: 주요 기능 살펴보기
+            Pre-installation Requirements: 설치 전 요구사항
+            Shopify App Installation Guide: Shopify 앱 설치 가이드
+            "[Required] Legacy Customer Account Activation": "[필수] 레거시 고객 계정 활성화"
+            "[Required] App Embed Activation": "[필수] 앱 임베드 활성화"
+            Installation and Setup Verification: 설치 및 설정 확인
+            Google One Tap Guide: Google One Tap 가이드
+            Nudge Smart Pop-up Guide: Nudge 스마트 팝업 가이드
+            Feature Best Practices: 기능 활용 팁
+            Shopify Theme Compatibility: Shopify 테마 호환성
+            Email Marketing Platform Integration: 이메일 마케팅 플랫폼 연동
+            Compatibility with Other Apps: 다른 앱과의 호환성

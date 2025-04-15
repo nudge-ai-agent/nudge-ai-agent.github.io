@@ -1,34 +1,23 @@
-/* Make all body text bolder */
-body {
-  font-weight: 500;  /* Normal is 400, bold is 700 */
+/* Extra styles for Nudge AI Documentation */
+
+:root {
+  --md-primary-fg-color: #5c6bc0;
+  --md-accent-fg-color: #ffeb3b;
 }
 
-/* Make headings even bolder */
-h1, h2, h3, h4, h5, h6 {
+.md-typeset h1 {
+  color: var(--md-primary-fg-color);
   font-weight: 700;
 }
 
-/* Make links and buttons bolder */
-a, button {
+.md-typeset h2 {
   font-weight: 600;
 }
 
-/* Increase navigation item font weight */
-.md-nav__item {
-  font-weight: 500;
+.md-typeset a {
+  color: var(--md-primary-fg-color);
 }
 
-/* Increase table text font weight */
-table {
-  font-weight: 500;
+.md-typeset a:hover {
+  color: var(--md-accent-fg-color);
 }
-
-/* Adjust code font weight to be more readable */
-code {
-  font-weight: 600;
-}
-
-/* Hide table of contents */
-.md-sidebar--secondary {
-  display: none !important;
-} 
