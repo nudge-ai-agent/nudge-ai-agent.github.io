@@ -14,7 +14,7 @@ Nudge AI offers various plans tailored to your business size and needs. All plan
 *   Suitable for stores with approximately 2,000 ~ 5,000 monthly visitors
 *   Displays the Nudge Smart Pop-up at the most opportune moments based on **data-driven optimized logic**
 
-## AI-Scale up Plan ($74.90/month)
+## AI-Scale up Plan ($89.90/month)
 
 *   **Up to 250 High-value emails acquired per month**
 *   Suitable for stores with approximately 5,000+ monthly visitors
