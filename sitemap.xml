@@ -127,6 +127,13 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://help.nudgeaiapp.com/ko/analytics-management/analytics/"/>
     </url>
     <url>
+        <loc>https://help.nudgeaiapp.com/blog/double-opt-in/</loc>
+        <lastmod>2025-04-23</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://help.nudgeaiapp.com/blog/double-opt-in/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://help.nudgeaiapp.com/ko/blog/double-opt-in/"/>
+    </url>
+    <url>
         <loc>https://help.nudgeaiapp.com/getting-started/what-is-nudge-ai/</loc>
         <lastmod>2025-04-23</lastmod>
         <changefreq>daily</changefreq>
@@ -475,6 +482,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://help.nudgeaiapp.com/ko/analytics-management/analytics/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://help.nudgeaiapp.com/analytics-management/analytics/"/>
+    </url>
+    <url>
+        <loc>https://help.nudgeaiapp.com/ko/blog/double-opt-in/</loc>
+        <lastmod>2025-04-23</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://help.nudgeaiapp.com/ko/blog/double-opt-in/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://help.nudgeaiapp.com/blog/double-opt-in/"/>
     </url>
     <url>
         <loc>https://help.nudgeaiapp.com/ko/getting-started/what-is-nudge-ai/</loc>
