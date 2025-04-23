@@ -127,6 +127,13 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://help.nudgeaiapp.com/ko/analytics-management/analytics/"/>
     </url>
     <url>
+        <loc>https://help.nudgeaiapp.com/getting-started/what-is-nudge-ai/</loc>
+        <lastmod>2025-04-23</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://help.nudgeaiapp.com/getting-started/what-is-nudge-ai/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://help.nudgeaiapp.com/ko/getting-started/what-is-nudge-ai/"/>
+    </url>
+    <url>
         <loc>https://help.nudgeaiapp.com/support-troubleshooting/faq/features/</loc>
         <lastmod>2025-04-23</lastmod>
         <changefreq>daily</changefreq>
@@ -251,13 +258,6 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://help.nudgeaiapp.com/getting-started/shopify-app-guide/"/>
         <xhtml:link rel="alternate" hreflang="ko" href="https://help.nudgeaiapp.com/ko/getting-started/shopify-app-guide/"/>
-    </url>
-    <url>
-        <loc>https://help.nudgeaiapp.com/getting-started/what-is-nudge-ai/</loc>
-        <lastmod>2025-04-23</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://help.nudgeaiapp.com/getting-started/what-is-nudge-ai/"/>
-        <xhtml:link rel="alternate" hreflang="ko" href="https://help.nudgeaiapp.com/ko/getting-started/what-is-nudge-ai/"/>
     </url>
     <url>
         <loc>https://help.nudgeaiapp.com/how-it-works/</loc>
@@ -477,6 +477,13 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://help.nudgeaiapp.com/analytics-management/analytics/"/>
     </url>
     <url>
+        <loc>https://help.nudgeaiapp.com/ko/getting-started/what-is-nudge-ai/</loc>
+        <lastmod>2025-04-23</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://help.nudgeaiapp.com/ko/getting-started/what-is-nudge-ai/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://help.nudgeaiapp.com/getting-started/what-is-nudge-ai/"/>
+    </url>
+    <url>
         <loc>https://help.nudgeaiapp.com/ko/support-troubleshooting/faq/features/</loc>
         <lastmod>2025-04-23</lastmod>
         <changefreq>daily</changefreq>
@@ -601,13 +608,6 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://help.nudgeaiapp.com/ko/getting-started/shopify-app-guide/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://help.nudgeaiapp.com/getting-started/shopify-app-guide/"/>
-    </url>
-    <url>
-        <loc>https://help.nudgeaiapp.com/ko/getting-started/what-is-nudge-ai/</loc>
-        <lastmod>2025-04-23</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="ko" href="https://help.nudgeaiapp.com/ko/getting-started/what-is-nudge-ai/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://help.nudgeaiapp.com/getting-started/what-is-nudge-ai/"/>
     </url>
     <url>
         <loc>https://help.nudgeaiapp.com/ko/how-it-works/</loc>
