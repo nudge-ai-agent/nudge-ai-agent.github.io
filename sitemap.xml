@@ -120,6 +120,13 @@
         <xhtml:link rel="alternate" hreflang="ko" href="https://help.nudgeaiapp.com/ko/analytics-management/limit-handling/"/>
     </url>
     <url>
+        <loc>https://help.nudgeaiapp.com/analytics-management/customer-tags/</loc>
+        <lastmod>2025-04-23</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://help.nudgeaiapp.com/analytics-management/customer-tags/"/>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://help.nudgeaiapp.com/ko/analytics-management/customer-tags/"/>
+    </url>
+    <url>
         <loc>https://help.nudgeaiapp.com/analytics-management/analytics/</loc>
         <lastmod>2025-04-23</lastmod>
         <changefreq>daily</changefreq>
@@ -475,6 +482,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="ko" href="https://help.nudgeaiapp.com/ko/analytics-management/limit-handling/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://help.nudgeaiapp.com/analytics-management/limit-handling/"/>
+    </url>
+    <url>
+        <loc>https://help.nudgeaiapp.com/ko/analytics-management/customer-tags/</loc>
+        <lastmod>2025-04-23</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="ko" href="https://help.nudgeaiapp.com/ko/analytics-management/customer-tags/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://help.nudgeaiapp.com/analytics-management/customer-tags/"/>
     </url>
     <url>
         <loc>https://help.nudgeaiapp.com/ko/analytics-management/analytics/</loc>
