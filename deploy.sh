@@ -61,9 +61,9 @@ cp "$work_dir/README.md" "$temp_dir/" 2>/dev/null || echo "README.md 복사 실�
 echo "🔄 gh-pages 브랜치로 전환 중..."
 git checkout gh-pages
 
-# 기존 파일 정리 (README.md 및 .git 제외)
-echo "🗑️ 기존 파일 정리 중..."
-find . -mindepth 1 -maxdepth 1 -not -name '.git' -not -name 'README.md' -exec rm -rf {} \;
+# 기존 파일 정리 (README.md, .git 및 assets 제외)
+echo "🗑️ 기존 파일 정리 중 (assets 디렉토리 제외)..."
+find . -mindepth 1 -maxdepth 1 -not -name '.git' -not -name 'README.md' -not -name 'assets' -exec rm -rf {} \;
 
 # 임시 디렉토리에서 파일 복사
 echo "📋 빌드된 파일 복사 중..."
