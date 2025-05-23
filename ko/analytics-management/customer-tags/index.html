@@ -22,7 +22,7 @@
     
     
       
-        <title>Shopify 고객 태그 및 연동 정보 활용하기 - Nudge AI Docs</title>
+        <title>Using Shopify Customer Tags - Nudge AI Docs</title>
       
     
     
@@ -83,7 +83,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#shopify" class="md-skip">
+        <a href="#using-shopify-customer-tags" class="md-skip">
           콘텐츠로 이동
         </a>
       
@@ -130,7 +130,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Shopify 고객 태그 및 연동 정보 활용하기
+              Using Shopify Customer Tags
             
           </span>
         </div>
@@ -2071,36 +2071,27 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#shopify_1" class="md-nav__link">
+  <a href="#understanding-the-nudge-ai-tag" class="md-nav__link">
     <span class="md-ellipsis">
-      Shopify 고객 태그 이해 및 활용
+      Understanding the Nudge AI Tag
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#shopify_3" class="md-nav__link">
+  <a href="#utilizing-the-nudge-ai-tag-in-shopify" class="md-nav__link">
     <span class="md-ellipsis">
-      Shopify 어드민 타임라인 표시
+      Utilizing the Nudge AI Tag in Shopify
     </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
-  <a href="#shopify-notes" class="md-nav__link">
+  <a href="#integrating-tags-with-email-marketing-platforms" class="md-nav__link">
     <span class="md-ellipsis">
-      Shopify 어드민 '참고 사항(Notes)' 추가
-    </span>
-  </a>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      이메일 마케팅 플랫폼과 태그 연동
+      Integrating Tags with Email Marketing Platforms
     </span>
   </a>
   
@@ -2122,49 +2113,38 @@
 
 
 
-<h1 id="shopify">Shopify 고객 태그 및 연동 정보 활용하기<a class="headerlink" href="#shopify" title="Permanent link">&para;</a></h1>
-<p>Nudge AI는 고객이 서비스를 통해 가입할 때 Shopify 고객 정보에 자동으로 특정 태그를 추가하고, 관련 활동 기록을 남깁니다. 이를 활용하여 Nudge AI로 유입된 고객을 쉽게 식별하고, Shopify 어드민에서 고객 관리 및 마케팅 활동 등에 참고할 수 있습니다.</p>
-<h2 id="shopify_1">Shopify 고객 태그 이해 및 활용<a class="headerlink" href="#shopify_1" title="Permanent link">&para;</a></h2>
-<p>Nudge AI는 다음과 같은 태그를 자동으로 추가합니다:</p>
+<h1 id="using-shopify-customer-tags">Using Shopify Customer Tags<a class="headerlink" href="#using-shopify-customer-tags" title="Permanent link">&para;</a></h1>
+<p>Nudge AI automatically adds a specific tag to Shopify customer profiles when they sign up through the service. You can utilize this tag to easily identify customers acquired via Nudge AI and use it for marketing activities.</p>
+<h2 id="understanding-the-nudge-ai-tag">Understanding the Nudge AI Tag<a class="headerlink" href="#understanding-the-nudge-ai-tag" title="Permanent link">&para;</a></h2>
 <ul>
-<li><strong><code>NudgeAI</code></strong>: 고객이 Nudge AI (Google One Tap 팝업 또는 회원가입/로그인 페이지)를 통해 가입하면 자동으로 추가됩니다. 고객의 획득 경로를 식별하는 데 사용됩니다.</li>
-<li><strong><code>Google</code></strong>, <strong><code>High-Value Email</code></strong>: <strong>High-value 이메일</strong>을 획득했을 경우, <code>NudgeAI</code> 태그와 함께 이 두 태그가 추가로 등록됩니다. 이를 통해 특정 조건(예: High-value)을 만족하는 고객을 식별할 수 있습니다.</li>
+<li><strong>Automatic Tag</strong>: When a customer signs up through Nudge AI (via Google One Tap popup or the sign-up/login page), the tag <strong><code>Nudge AI</code></strong> is automatically added to their Shopify profile.</li>
+<li><strong>Purpose</strong>: This tag is used to identify the customer's acquisition channel (Nudge AI).</li>
 </ul>
-<h3 id="shopify_2">Shopify에서 태그 활용하기<a class="headerlink" href="#shopify_2" title="Permanent link">&para;</a></h3>
-<p>추가된 태그는 다음과 같은 방법으로 활용될 수 있습니다:</p>
-<h4 id="1">1. 고객 세분화<a class="headerlink" href="#1" title="Permanent link">&para;</a></h4>
+<h2 id="utilizing-the-nudge-ai-tag-in-shopify">Utilizing the <code>Nudge AI</code> Tag in Shopify<a class="headerlink" href="#utilizing-the-nudge-ai-tag-in-shopify" title="Permanent link">&para;</a></h2>
+<p>The <code>Nudge AI</code> tag can be leveraged in the following ways:</p>
+<h3 id="1-customer-segmentation">1. Customer Segmentation<a class="headerlink" href="#1-customer-segmentation" title="Permanent link">&para;</a></h3>
 <ul>
-<li>Shopify 관리자 패널 &gt; 고객 (Customers) 메뉴로 이동합니다.</li>
-<li>필터 옵션을 사용하여 '태그 지정됨(Tagged with)' 조건에 <code>NudgeAI</code>, <code>Google</code>, <code>High-Value Email</code> 등을 입력하여 검색합니다.</li>
-<li>검색된 고객 그룹을 저장하여 특정 유입 경로 또는 조건을 만족하는 고객 세그먼트를 생성할 수 있습니다.</li>
+<li>Go to your Shopify admin panel &gt; Customers.</li>
+<li>Use the filter option and enter <code>Nudge AI</code> in the 'Tagged with' condition to search.</li>
+<li>You can save the searched customer group to create a segment for customers acquired via Nudge AI.</li>
 </ul>
-<h4 id="2">2. 타겟 마케팅<a class="headerlink" href="#2" title="Permanent link">&para;</a></h4>
+<h3 id="2-targeted-marketing">2. Targeted Marketing<a class="headerlink" href="#2-targeted-marketing" title="Permanent link">&para;</a></h3>
 <ul>
-<li>생성된 고객 세그먼트를 활용하여, 특정 그룹에게 특화된 이메일 캠페인이나 프로모션을 진행할 수 있습니다.</li>
-<li>예를 들어, <code>High-Value Email</code> 태그가 있는 고객 그룹에게 프리미엄 혜택을 제공할 수 있습니다.</li>
+<li>Utilize the created <code>Nudge AI</code> customer segment to run specialized email campaigns or promotions for the group that signed up via Nudge AI.</li>
+<li>For example, you could deliver marketing messages emphasizing benefits or information familiar to Google account users.</li>
 </ul>
-<h4 id="3">3. 분석 및 보고<a class="headerlink" href="#3" title="Permanent link">&para;</a></h4>
+<h3 id="3-analytics-and-reporting">3. Analytics and Reporting<a class="headerlink" href="#3-analytics-and-reporting" title="Permanent link">&para;</a></h3>
 <ul>
-<li>특정 태그(<code>NudgeAI</code>, <code>High-Value Email</code> 등)를 기준으로 고객 그룹의 구매 행동, 참여율 등을 분석하여 유입 경로별 또는 고객 유형별 특성과 가치를 파악할 수 있습니다.</li>
-<li>다른 획득 경로로 유입된 고객 그룹과의 성과를 비교 분석하는 데 활용할 수 있습니다.</li>
+<li>Analyze the purchase behavior, engagement rates, etc., of the customer group based on the <code>Nudge AI</code> tag to understand the characteristics and value of customers acquired through Nudge AI.</li>
+<li>Use it to compare performance against customer groups acquired through other channels.</li>
 </ul>
-<h2 id="shopify_3">Shopify 어드민 타임라인 표시<a class="headerlink" href="#shopify_3" title="Permanent link">&para;</a></h2>
+<h2 id="integrating-tags-with-email-marketing-platforms">Integrating Tags with Email Marketing Platforms<a class="headerlink" href="#integrating-tags-with-email-marketing-platforms" title="Permanent link">&para;</a></h2>
+<p>Most major email marketing platforms offer functionality to synchronize Shopify customer tag information.</p>
 <ul>
-<li>Nudge AI 팝업 또는 Google One Tap을 통해 <strong>신규 고객이 생성</strong>될 때, 해당 고객의 Shopify 타임라인에 <code>NudgeAI - Email(가) 이 고객을 생성했습니다.</code> 라는 이벤트 기록이 자동으로 생성됩니다.</li>
-<li>이를 통해 고객이 어떤 경로로 스토어에 가입했는지 명확하게 추적할 수 있습니다.</li>
+<li>Ensure that Shopify customer tag synchronization is enabled in your email marketing platform settings.</li>
+<li>You can create segments within your email marketing platform based on the <code>Nudge AI</code> tag to execute more sophisticated targeted marketing.</li>
 </ul>
-<h2 id="shopify-notes">Shopify 어드민 '참고 사항(Notes)' 추가<a class="headerlink" href="#shopify-notes" title="Permanent link">&para;</a></h2>
-<ul>
-<li>Nudge AI를 통해 고객이 생성되면, 해당 고객의 Shopify 프로필 '참고 사항(Notes)' 섹션에 <code>Sign up with the NudegeAi-Email application.</code> 라는 문구가 자동으로 추가됩니다.</li>
-<li>이는 고객 지원 시 또는 내부 관리 목적으로 해당 고객이 Nudge AI를 통해 유입되었음을 빠르게 파악하는 데 도움을 줍니다.</li>
-</ul>
-<h2 id="_1">이메일 마케팅 플랫폼과 태그 연동<a class="headerlink" href="#_1" title="Permanent link">&para;</a></h2>
-<p>대부분의 주요 이메일 마케팅 플랫폼은 Shopify 고객 태그 정보를 동기화하는 기능을 제공합니다.</p>
-<ul>
-<li>이메일 마케팅 플랫폼 설정에서 Shopify 고객 태그 동기화가 활성화되어 있는지 확인하세요.</li>
-<li><code>NudgeAI</code> 태그를 기반으로 이메일 마케팅 플랫폼 내에서 세그먼트를 생성하고, 더욱 정교한 타겟 마케팅을 실행할 수 있습니다.</li>
-</ul>
-<p>이메일 마케팅 플랫폼과의 연동에 대한 자세한 내용은 <a href="../../features-integrations/email-marketing/">이메일 마케팅 플랫폼 연동</a> 페이지를 참조하세요.</p>
+<p>For more details on integrating with email marketing platforms, please refer to the <a href="../../features-integrations/email-marketing/">Email Marketing Platform Integration</a> page.</p>
 
 
 
