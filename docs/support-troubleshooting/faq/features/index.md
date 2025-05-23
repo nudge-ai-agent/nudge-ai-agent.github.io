@@ -20,7 +20,7 @@ A: Nudge AI is designed with user experience as a top priority. The system, base
 
 **Q: How many more emails can I actually collect compared to a standard subscription form?**
 
-A: Traditional subscription forms act as a 'barrier' requiring visitors to manually enter information. Annoyance, time consumption, potential typos, and privacy concerns can lead to drop-offs. Nudge AI virtually eliminates this barrier through Google One Tap. Everything is completed with a single click through a familiar and trusted process. By removing this key barrier, more visitors are likely to complete the subscription process itself. The degree of improvement varies by store, so check it out with the 14-day free trial.
+A: Traditional subscription forms act as a 'barrier' requiring visitors to manually enter information. Annoyance, time consumption, potential typos, and privacy concerns can lead to drop-offs. Nudge AI virtually eliminates this barrier through Google One Tap. Everything is completed with a single click through a familiar and trusted process. By removing this key barrier, more visitors are likely to complete the subscription process itself. The degree of improvement varies by store, so check it out with the 7-day free trial.
 
 ## App Differentiation
 

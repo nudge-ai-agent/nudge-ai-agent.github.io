@@ -20,8 +20,9 @@ This guide provides detailed instructions for installing Nudge AI on your Shopif
 
 4. **Select a Plan**
    - After installation, choose a plan that fits your business size on the plan selection page
-   - All plans start with a 14-day free trial
-   - Click "Start 14-day free trial" or a similar button
+   - All plans start with a 7-day free trial
+   - Click "Start 7-day free trial" or a similar button
+   - Payments are securely processed through Shopify.
 
 ## Essential Post-Installation Setup
 

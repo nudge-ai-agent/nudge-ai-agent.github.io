@@ -1,29 +1,50 @@
-# Plans Comparison
+# Plans Comparison Guide
 
-Nudge AI offers various plans tailored to your business size and needs. All plans start with a **14-day free trial**, allowing you to experience all features of the selected plan during the trial period.
+NudgeAI provides pages and pop-ups that are dimensionally different from existing sign-up and subscription methods to acquire High-value emails, and applies them automatically as soon as setup is complete.
 
-## Starter Plan ($9.90/month)
+NudgeAI pricing plans are based on the number of High-value emails acquired.
 
-*   **Up to 50 High-value emails acquired per month**
-*   Suitable for stores with approximately 500 ~ 2,000 monthly visitors
-*   Displays the Nudge Smart Pop-up at the most opportune moments based on **data-driven optimized logic**
+Please consider this when selecting your plan.
 
-## AI-Growth Plan ($29.90/month)
+## **Starter Plan ($9.90/month)**
 
-*   **Up to 100 High-value emails acquired per month**
-*   Suitable for stores with approximately 2,000 ~ 5,000 monthly visitors
-*   Displays the Nudge Smart Pop-up at the most opportune moments based on **data-driven optimized logic**
+- Free trial for 7 days
+- Automated application of sign-up page optimized for Google One Tap
+- Automated application of login page optimized for Google One Tap
+- Automated application of smart email subscription pop-up requiring no email input
+- Acquire up to **100** High-value emails per month
 
-## AI-Scale up Plan ($89.90/month)
+      * Only emails acquired through services provided by NudgeAI are counted.
 
-*   **Up to 250 High-value emails acquired per month**
-*   Suitable for stores with approximately 5,000+ monthly visitors
-*   Displays the Nudge Smart Pop-up at the most opportune moments based on **data-driven optimized logic**
+      * If you exceed 100 emails/month, you must upgrade to AI-Growth or higher.
 
-## Enterprise Custom Plan
+      * Ideal for stores starting to build their email list or with moderate traffic (approx. 500-2,000 visitors/month), needing up to 100 verified emails.
 
-*   A tailored solution for large-scale businesses needing to acquire more than 250 High-value emails per month.
-*   Please contact our customer support team for detailed information.
+## **AI-Growth Plan ($29.90/month)**
+
+- Free trial for 7 days
+- Automated application of sign-up page optimized for Google One Tap
+- Automated application of login page optimized for Google One Tap
+- Automated application of smart email subscription pop-up requiring no email input
+- Acquire up to **300** High-value emails per month
+
+      * Only emails acquired through services provided by NudgeAI are counted.
+
+      * If you exceed 300 emails/month, you must upgrade to AI-Scale up or higher.
+
+      * Best for growing stores with increasing traffic (approx. 2,000-5,000 visitors/month) that require more leads (up to 300/month) and benefit from AI-powered popup optimization.
+
+## **AI-Scale up Plan ($89.90/month)**
+
+- Free trial for 7 days
+- Automated application of sign-up page optimized for Google One Tap
+- Automated application of login page optimized for Google One Tap
+- Automated application of smart email subscription pop-up requiring no email input
+- Acquire **Unlimited** High-value emails per month
+
+      * Only emails acquired through services provided by NudgeAI are counted.
+
+      * Designed for high-traffic stores (5,000+ visitors/month) needing unlimited email capture to maximize lead generation potential.
 
 ---
 

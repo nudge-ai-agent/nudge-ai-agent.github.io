@@ -48,159 +48,158 @@ plugins:
           name: English
           build: true
           nav:
-            - Home: index.md
-            - Getting Started: 
-              - What is Nudge AI?: getting-started/what-is-nudge-ai/index.md
-              - Key Features: getting-started/key-features/index.md
-              - Requirements: getting-started/requirements/index.md
-              - Installation & Setup: getting-started/installation/index.md
-              - Shopify App Guide: getting-started/shopify-app-guide/index.md
-              - Legacy Customer Accounts: getting-started/legacy-accounts/index.md
-              - App Embed Activation: getting-started/app-embed/index.md
-              - Verify Installation: getting-started/installation-check/index.md
-              - Quick Start Guide: getting-started/quick-start-guide/index.md
-            - Features & Integration: 
-              - Core Features: features-integrations/core-features/index.md
-              - Google One Tap: features-integrations/google-one-tap/index.md
-              - Smart Popup: features-integrations/smart-popup/index.md
-              - Usage Tips: features-integrations/usage-tips/index.md
-              - Theme Compatibility: features-integrations/theme-compatibility/index.md
-              - Email Marketing: features-integrations/email-marketing/index.md
-            - How It Works:
-              - Technology: how-it-works/technology/index.md
-              - Data Processing: how-it-works/data-processing/index.md
-            - Analytics & Management: 
-              - Dashboard: analytics-management/dashboard/index.md
-              - Customer Tags: analytics-management/customer-tags/index.md
-              - Conversion Analytics: analytics-management/conversion-analytics/index.md
-              - Email Limits: analytics-management/email-limits/index.md
-              - Limit Handling: analytics-management/limit-handling/index.md
-            - Account & Policy: 
-              - Plans Comparison: account-policy/plans-comparison/index.md
-              - Free Trial: account-policy/free-trial/index.md
-              - Payment Management: account-policy/payment-management/index.md
-              - Change Plan: account-policy/change-plan/index.md
-              - Cancellation Policy: account-policy/cancellation-policy/index.md
-              - Data Security: account-policy/data-security/index.md
-              - Data Ownership: account-policy/data-ownership/index.md
-            - Support & Troubleshooting: 
-              - FAQ:
-                - General: support-troubleshooting/faq/general/index.md
-                - Installation: support-troubleshooting/faq/installation/index.md
-                - Features: support-troubleshooting/faq/features/index.md
-              - Troubleshooting: support-troubleshooting/troubleshooting/index.md
-              - Error Messages: support-troubleshooting/error-messages/index.md
-              - Common Issues: support-troubleshooting/common-issues/index.md
-              - Contact Us: support-troubleshooting/contact/index.md
-              - Support Channels: support-troubleshooting/support-channels/index.md
-              - Feedback: support-troubleshooting/feedback/index.md
-              - Terms of Use: terms-of-use.md
-              - Privacy Policy: privacy-policy.md
-            - "Get the App ↗": https://apps.shopify.com/search?q=nudgeai
+            - 'Home': 'index.md'
+            - 'About NudgeAI':
+              - 'What is NudgeAI & Its Value?': 'about-nudgeai/what-is-nudgeai.md'
+              - 'Why Use NudgeAI for Shopify?': 'about-nudgeai/why-use-nudgeai.md'
+              - 'NudgeAI Core Functionality': 'about-nudgeai/core-functionality.md'
+              - 'Understanding Google One Tap': 'about-nudgeai/understanding-google-one-tap.md'
+              - 'Google One Tap: Benefits & Data Collection': 'about-nudgeai/google-one-tap-benefits-data.md'
+              - 'Defining "High-Value Emails"': 'about-nudgeai/defining-high-value-emails.md'
+              - 'Google One Tap: Customer UX Flow': 'about-nudgeai/google-one-tap-ux-flow.md'
+              - 'Platform Availability (Shopify Exclusive)': 'about-nudgeai/platform-availability.md'
+              - 'Success Stories': 'about-nudgeai/success-stories.md'
+              - 'Practical Applications': 'about-nudgeai/practical-applications.md'
+            - 'Setup Guide':
+              - 'Essential Requirements': 'setup-guide/essential-requirements.md'
+              - 'Theme Compatibility & App Embed': 'setup-guide/theme-compatibility-app-embed.md'
+              - 'How to Install NudgeAI from App Store': 'setup-guide/installation.md'
+              - 'App Permissions Explained': 'setup-guide/app-permissions.md'
+              - 'First Steps After Installation': 'setup-guide/initial-setup.md'
+              - 'Shopify Customer Accounts: Legacy vs. New': 'setup-guide/shopify-customer-accounts.md'
+              - 'NudgeAI & Customer Account Type Interactions': 'setup-guide/nudgeai-account-type-interactions.md'
+              - 'Step-by-Step App Embed Guide': 'setup-guide/app-embed-guide.md'
+              - 'App Embed: Notes for Specific Themes': 'setup-guide/app-embed-theme-notes.md'
+              - 'Verifying Your NudgeAI Setup': 'setup-guide/verifying-setup.md'
+              - 'Ensuring NudgeAI is Working Correctly': 'setup-guide/ensuring-nudgeai-is-working.md'
+              - 'Troubleshooting Initial Pop-up Display Issues': 'setup-guide/troubleshooting-initial-display.md'
+            - 'Features':
+              - 'AI Plus Pop-up: Purpose & Key Features': 'features/ai-plus-popup-purpose-features.md'
+              - 'AI Plus Pop-up: Display Conditions & Rules': 'features/ai-plus-popup-display-rules.md'
+              - 'AI Plus Pop-up: Marketing Consent Process': 'features/ai-plus-popup-marketing-consent.md'
+              - 'AI Plus Pop-up: Behavior by Account Type & Login Status': 'features/ai-plus-popup-account-type-behavior.md'
+              - 'AI Lite Pop-up: Introduction & Comparison': 'features/ai-lite-popup-introduction.md'
+              - 'AI Lite Pop-up: Display Environment & Design': 'features/ai-lite-popup-display-design.md'
+              - 'AI Lite Pop-up: Marketing Consent Process': 'features/ai-lite-popup-marketing-consent.md'
+              - 'AI Lite Pop-up: Behavior by Account Type & Login Status': 'features/ai-lite-popup-account-type-behavior.md'
+              - 'AI Lite Pop-up: Detailed Display & Closing/Re-display Rules': 'features/ai-lite-popup-detailed-rules.md'
+              - 'Login Page Enhancement (Legacy Accounts)': 'features/login-page-enhancement-legacy.md'
+              - 'Login Page: Marketing Consent Configuration (Legacy)': 'features/login-page-consent-config-legacy.md'
+            - 'Data & Integrations':
+              - 'Accessing & Managing Collected Customer Data': 'data-integrations/accessing-managing-data.md'
+              - 'Using NudgeAI Customer Tags for Marketing': 'data-integrations/using-customer-tags.md'
+              - 'Integrating with Email Marketing Platforms (Klaviyo, Mailchimp, etc.)': 'data-integrations/email-marketing-integrations.md'
+            - 'Analytics':
+              - 'Navigating Your NudgeAI Dashboard': 'analytics/dashboard-navigation.md'
+              - 'Analyzing Email Subscription & Conversion Performance': 'analytics/analyzing-performance.md'
+              - 'Tips for Analyzing Customer AOV (Average Order Value)': 'analytics/analyzing-aov.md'
+              - 'Understanding Theme Compatibility & Its Impact': 'analytics/theme-compatibility-impact.md'
+            - 'Pricing':
+              - 'NudgeAI Subscription Plans & Pricing': 'pricing/plans-pricing.md'
+              - 'Choosing the Right Plan for Your Store': 'pricing/choosing-your-plan.md'
+              - 'Free Trial & Converting to a Paid Plan': 'pricing/free-trial-paid-conversion.md'
+              - 'Managing Your Billing & Invoices': 'pricing/billing-invoices.md'
+            - 'Support':
+              - 'Self-Check Steps When Pop-up Is Not Displaying': 'support/troubleshooting-popup-display.md'
+              - 'Troubleshooting: Common Errors & Solutions': 'support/troubleshooting-common-errors.md'
+              - 'Contacting NudgeAI Customer Support': 'support/contacting-support.md'
+              - 'Providing Feedback & Feature Requests': 'support/feedback-requests.md'
+            - 'Legal':
+              - 'Terms of Service': 'legal/terms-of-service.md'
+              - 'Privacy Policy': 'legal/privacy-policy.md'
+            - 'Blog':
+              - 'Blog Home': 'blog/index.md'
+            - 'Get the App ↗': 'https://apps.shopify.com/nudgeai-email?utm_source=nudgeaihelp'
         - locale: ko
           name: 한국어
           build: true
           nav:
-            - Home: ko/index.md
-            - Getting Started: 
-              - What is Nudge AI?: ko/getting-started/what-is-nudge-ai/index.md
-              - Key Features: ko/getting-started/key-features/index.md
-              - Requirements: ko/getting-started/requirements/index.md
-              - Installation & Setup: ko/getting-started/installation/index.md
-              - Shopify App Guide: ko/getting-started/shopify-app-guide/index.md
-              - Legacy Customer Accounts: ko/getting-started/legacy-accounts/index.md
-              - App Embed Activation: ko/getting-started/app-embed/index.md
-              - Verify Installation: ko/getting-started/installation-check/index.md
-              - Quick Start Guide: ko/getting-started/quick-start-guide/index.md
-            - Features & Integration: 
-              - Core Features: ko/features-integrations/core-features/index.md
-              - Google One Tap: ko/features-integrations/google-one-tap/index.md
-              - Smart Popup: ko/features-integrations/smart-popup/index.md
-              - Usage Tips: ko/features-integrations/usage-tips/index.md
-              - Theme Compatibility: ko/features-integrations/theme-compatibility/index.md
-              - Email Marketing: ko/features-integrations/email-marketing/index.md
-            - How It Works:
-              - Technology: ko/how-it-works/technology/index.md
-              - Data Processing: ko/how-it-works/data-processing/index.md
-            - Analytics & Management: 
-              - Dashboard: ko/analytics-management/dashboard/index.md
-              - Customer Tags: ko/analytics-management/customer-tags/index.md
-              - Conversion Analytics: ko/analytics-management/conversion-analytics/index.md
-              - Email Limits: ko/analytics-management/email-limits/index.md
-              - Limit Handling: ko/analytics-management/limit-handling/index.md
-            - Account & Policy: 
-              - Plans Comparison: ko/account-policy/plans-comparison/index.md
-              - Free Trial: ko/account-policy/free-trial/index.md
-              - Payment Management: ko/account-policy/payment-management/index.md
-              - Change Plan: ko/account-policy/change-plan/index.md
-              - Cancellation Policy: ko/account-policy/cancellation-policy/index.md
-              - Data Security: ko/account-policy/data-security/index.md
-              - Data Ownership: ko/account-policy/data-ownership/index.md
-            - Support & Troubleshooting: 
-              - FAQ:
-                - General: ko/support-troubleshooting/faq/general/index.md
-                - Installation: ko/support-troubleshooting/faq/installation/index.md
-                - Features: ko/support-troubleshooting/faq/features/index.md
-              - Troubleshooting: ko/support-troubleshooting/troubleshooting/index.md
-              - Error Messages: ko/support-troubleshooting/error-messages/index.md
-              - Common Issues: ko/support-troubleshooting/common-issues/index.md
-              - Contact Us: ko/support-troubleshooting/contact/index.md
-              - Support Channels: ko/support-troubleshooting/support-channels/index.md
-              - Feedback: ko/support-troubleshooting/feedback/index.md
-              - 이용약관: ko/terms-of-use.md
-              - 개인정보 처리방침: ko/privacy-policy.md
-            - "Get the App ↗": https://apps.shopify.com/search?q=nudgeai
+            - '홈': 'ko/index.md'
+            - 'NudgeAI 소개':
+              - 'NudgeAI란 무엇이며 어떤 가치를 제공하나요?': 'ko/about-nudgeai/what-is-nudgeai.md'
+              - 'Shopify 스토어를 위한 NudgeAI의 이점': 'ko/about-nudgeai/why-use-nudgeai.md'
+              - 'NudgeAI 핵심 기능': 'ko/about-nudgeai/core-functionality.md'
+              - 'Google One Tap 기술 이해': 'ko/about-nudgeai/understanding-google-one-tap.md'
+              - 'Google One Tap: 이점 및 수집 정보': 'ko/about-nudgeai/google-one-tap-benefits-data.md'
+              - '"고가치 이메일"이란?': 'ko/about-nudgeai/defining-high-value-emails.md'
+              - 'Google One Tap: 고객 경험 흐름': 'ko/about-nudgeai/google-one-tap-ux-flow.md'
+              - '지원 플랫폼 (Shopify 전용)': 'ko/about-nudgeai/platform-availability.md'
+              - '성공 사례': 'ko/about-nudgeai/success-stories.md'
+              - '실제 활용 방법': 'ko/about-nudgeai/practical-applications.md'
+            - '시작하기':
+              - '필수 요구 사항': 'ko/setup-guide/essential-requirements.md'
+              - '테마 호환성 및 App Embed': 'ko/setup-guide/theme-compatibility-app-embed.md'
+              - 'Shopify 앱스토어에서 NudgeAI 설치하기': 'ko/setup-guide/installation.md'
+              - '앱 설치 권한 안내': 'ko/setup-guide/app-permissions.md'
+              - '설치 후 초기 설정 단계': 'ko/setup-guide/initial-setup.md'
+              - 'Shopify 고객 계정 유형: Legacy vs. New': 'ko/setup-guide/shopify-customer-accounts.md'
+              - 'NudgeAI와 고객 계정 유형 연동 방식': 'ko/setup-guide/nudgeai-account-type-interactions.md'
+              - 'App Embed 상세 가이드': 'ko/setup-guide/app-embed-guide.md'
+              - 'App Embed: 특정 테마 참고사항': 'ko/setup-guide/app-embed-theme-notes.md'
+              - 'NudgeAI 설정 확인 방법': 'ko/setup-guide/verifying-setup.md'
+              - 'NudgeAI 정상 작동 확인 방법 (팝업 및 데이터)': 'ko/setup-guide/ensuring-nudgeai-is-working.md'
+              - '팝업 미노출 문제 해결': 'ko/setup-guide/troubleshooting-initial-display.md'
+            - '주요 기능':
+              - 'AI Plus Pop-up: 목적 및 주요 특징': 'ko/features/ai-plus-popup-purpose-features.md'
+              - 'AI Plus Pop-up: 노출 조건 및 규칙': 'ko/features/ai-plus-popup-display-rules.md'
+              - 'AI Plus Pop-up: 마케팅 동의 처리': 'ko/features/ai-plus-popup-marketing-consent.md'
+              - 'AI Plus Pop-up: 계정 유형 및 로그인 상태별 동작': 'ko/features/ai-plus-popup-account-type-behavior.md'
+              - 'AI Lite Pop-up: 소개 및 비교': 'ko/features/ai-lite-popup-introduction.md'
+              - 'AI Lite Pop-up: 노출 환경 및 디자인': 'ko/features/ai-lite-popup-display-design.md'
+              - 'AI Lite Pop-up: 마케팅 동의 처리': 'ko/features/ai-lite-popup-marketing-consent.md'
+              - 'AI Lite Pop-up: 계정 유형 및 로그인 상태별 동작': 'ko/features/ai-lite-popup-account-type-behavior.md'
+              - 'AI Lite Pop-up: 상세 노출 및 닫기/재노출 규칙': 'ko/features/ai-lite-popup-detailed-rules.md'
+              - '로그인 페이지 개선 (Legacy 계정)': 'ko/features/login-page-enhancement-legacy.md'
+              - '로그인 페이지: 마케팅 동의 설정 (Legacy)': 'ko/features/login-page-consent-config-legacy.md'
+            - '데이터 및 연동':
+              - '수집된 고객 정보 접근 및 관리': 'ko/data-integrations/accessing-managing-data.md'
+              - 'NudgeAI 고객 태그 마케팅 활용법': 'ko/data-integrations/using-customer-tags.md'
+              - '이메일 마케팅 플랫폼 연동 (Klaviyo, Mailchimp 등)': 'ko/data-integrations/email-marketing-integrations.md'
+            - '성과 분석':
+              - 'NudgeAI 대시보드 활용법': 'ko/analytics/dashboard-navigation.md'
+              - '이메일 구독 및 전환 성과 분석': 'ko/analytics/analyzing-performance.md'
+              - '고객 평균 주문 금액(AOV) 분석 팁': 'ko/analytics/analyzing-aov.md'
+              - '테마 호환성 및 영향 이해': 'ko/analytics/theme-compatibility-impact.md'
+            - '요금제':
+              - 'NudgeAI 요금제 플랜 및 가격': 'ko/pricing/plans-pricing.md'
+              - '내 스토어에 맞는 요금제 선택하기': 'ko/pricing/choosing-your-plan.md'
+              - '무료 체험 및 유료 플랜 전환': 'ko/pricing/free-trial-paid-conversion.md'
+              - '결제 정보 및 청구서 관리': 'ko/pricing/billing-invoices.md'
+            - '고객 지원':
+              - '팝업 미노출 시 자가 점검 단계': 'ko/support/troubleshooting-popup-display.md'
+              - '문제 해결: 자주 발생하는 오류 및 해결책': 'ko/support/troubleshooting-common-errors.md'
+              - 'NudgeAI 고객 지원팀 문의하기': 'ko/support/contacting-support.md'
+              - '피드백 및 기능 요청하기': 'ko/support/feedback-requests.md'
+            - '약관 및 정책':
+              - '서비스 이용약관': 'ko/legal/terms-of-service.md'
+              - '개인정보처리방침': 'ko/legal/privacy-policy.md'
+            - '블로그':
+              - '블로그 홈': 'ko/blog/index.md'
+            - '앱 다운로드 ↗': 'https://apps.shopify.com/nudgeai-email?utm_source=nudgeaihelp'
           nav_translations:
             Home: 홈
-            Getting Started: 시작하기
-            Features & Integration: 기능 활용 및 통합
-            How It Works: 기술 작동 방식
-            Analytics & Management: 성과 분석 및 관리
-            Account & Policy: 계정 및 정책
-            Support & Troubleshooting: 지원 및 문제 해결
-            "Get the App ↗": 앱 다운로드 ↗
-            Overview: 개요
-            What is Nudge AI?: Nudge AI란 무엇인가요?
-            Key Features: 주요 기능 살펴보기
-            Requirements: 설치 전 요구사항
-            Installation & Setup: 설치 및 초기 설정
-            Shopify App Guide: Shopify 앱 설치 가이드
-            Legacy Customer Accounts: 레거시 고객 계정 활성화
-            App Embed Activation: 앱 임베드 활성화
-            Verify Installation: 설치 및 설정 확인
-            Quick Start Guide: 빠른 시작 가이드
-            Core Features: 핵심 기능 활용법
-            Google One Tap: Google One Tap 가이드
-            Smart Popup: Nudge 스마트 팝업 가이드
-            Usage Tips: 기능 활용 팁
-            Theme Compatibility: Shopify 테마 호환성
-            Email Marketing: 이메일 마케팅 플랫폼 연동
-            Technology: 기술 개요
-            Data Processing: 데이터 처리 방식
-            Dashboard: Nudge AI 대시보드 활용하기
-            Customer Tags: Shopify 고객 태그 활용하기
-            Conversion Analytics: 전환율 분석
-            Email Limits: 이메일 한도 관리
-            Limit Handling: 한도 도달 시 대처 방법
-            Plans Comparison: 요금제 비교 가이드
-            Free Trial: 14일 무료 체험
-            Payment Management: 결제 및 인보이스 관리
-            Change Plan: 요금제 변경하기
-            Cancellation Policy: 해지 정책
-            Data Security: 데이터 보안 기술
-            Data Ownership: 고객 데이터 소유권
-            Privacy Policy: 개인정보 처리방침
-            Terms of Use: 이용약관
-            FAQ: 자주 묻는 질문 (FAQ)
-            General: 일반 FAQ
-            Installation: 설치/설정 FAQ
-            Features: 기능 FAQ
-            Troubleshooting: 문제 해결 가이드
-            Error Messages: 오류 메시지 해결책
-            Common Issues: 일반적인 문제 및 팁
-            Contact Us: 문의하기
-            Support Channels: 지원 채널
-            Feedback: 피드백 및 기능 요청
+            About NudgeAI: NudgeAI 소개
+            Setup Guide: 시작하기
+            Features: 주요 기능
+            Data & Integrations: 데이터 및 연동
+            Analytics: 성과 분석
+            'Pricing': '요금제'
+            Support: 고객 지원
+            Legal: 약관 및 정책
+            Blog: 블로그
+            "Get the App ↗": "앱 다운로드 ↗"
+            'Essential Requirements': '필수 요구 사항'
+            'Theme Compatibility & App Embed': '테마 호환성 및 App Embed'
+            'How to Install NudgeAI from App Store': 'Shopify 앱스토어에서 NudgeAI 설치하기'
+            'App Permissions Explained': '앱 설치 권한 안내'
+            'First Steps After Installation': '설치 후 초기 설정 단계'
+            'Shopify Customer Accounts: Legacy vs. New': 'Shopify 고객 계정: Legacy vs. 신규'
+            'NudgeAI & Customer Account Type Interactions': 'NudgeAI와 고객 계정 유형 연동 방식'
+            'Step-by-Step App Embed Guide': 'App Embed 상세 가이드'
+            'App Embed: Notes for Specific Themes': 'App Embed: 특정 테마 참고사항'
+            'Verifying Your NudgeAI Setup': 'NudgeAI 설정 확인 방법'
+            'Ensuring NudgeAI is Working Correctly': 'NudgeAI 정상 작동 확인 방법 (팝업 및 데이터)'
+            'Troubleshooting Initial Pop-up Display Issues': '팝업 미노출 문제 해결'
 
 extra_css:
   - stylesheets/extra.css
@@ -211,7 +210,7 @@ extra_javascript:
 extra:
   social:
     - icon: fontawesome/brands/shopify
-      link: https://apps.shopify.com/
+      link: https://apps.shopify.com/nudgeai-email?locale=ko&search_id=a3c307d9-5f6f-4306-89ea-4407b21aece2&utm_source=nudgeaihelp
       name: NudgeAI on Shopify App Store
   alternate:
     - name: English

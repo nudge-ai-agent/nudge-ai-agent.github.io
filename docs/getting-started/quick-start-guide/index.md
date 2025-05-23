@@ -7,7 +7,8 @@ This guide provides step-by-step instructions for quickly installing and configu
 1. Search for Nudge AI in the [Shopify App Store](https://apps.shopify.com/nudge-ai)
 2. Click the "Add app" button
 3. Approve the app installation permissions
-4. Select a plan that fits your business size (starts with a 14-day free trial)
+4. Select a plan that fits your business size (starts with a 7-day free trial)
+5. Nudge AI will automatically start working to collect verified emails and customer names.
 
 ## Step 2: Activate Essential Settings
 

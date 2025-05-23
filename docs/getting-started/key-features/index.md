@@ -2,19 +2,25 @@
 
 Nudge AI helps your Shopify store grow through the following core features:
 
-## Nudge AI's Main Approaches
+## NudgeAI's Core Features
 
-### 1. Optimized Sign-up/Login Page
+### 1. Automated Application of Sign-up/Login Page Optimized for Google One Tap
 
 - Offers a seamless user experience using the Google One Tap interface instead of cumbersome traditional input methods.
-- When a user visits the sign-up or login page, the 'Continue with Google' button allows instant authentication and sign-up (including marketing consent).
+- When a user visits the sign-up or login page, clicking the 'Continue with Google' button proceeds with and completes the sign-up and marketing consent.
 - This lowers the user entry barrier and increases registration conversion rates.
+- Equipped with Google One Tap, it offers effects equivalent to verification.
 
-### 2. Nudge Smart Pop-up
+### 2. Automated Application of Smart Email Subscription Pop-up via Nudge Smart Pop-up (No Email Input Required)
 
-- AI analyzes user behavior to display the Google One Tap popup at the optimal moment.
-- Users can complete registration and marketing subscription simultaneously with a single click.
-- Designed to avoid interrupting the visitor's shopping experience.
+- Displayed at the optimal timing with an optimized pop-up size to avoid disrupting the shopping experience.
+- Users can subscribe with a single click without needing to enter their email address.
+- Equipped with Google One Tap, it offers effects equivalent to verification.
+
+### 3. High-value Email and Name Acquisition Function
+
+- Acquire High-value emails through the pop-ups/pages provided by NudgeAI.
+- The Google One Tap feature allows acquiring the customer's name without requiring manual input.
 
 ## Detailed Features and Benefits
 

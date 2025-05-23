@@ -6,7 +6,7 @@ A: Nudge AI is designed with the user experience as a top priority. Our user beh
 
 ### Q: How many more emails can I actually collect compared to a standard subscription form?
 
-A: Traditional subscription forms act as a 'barrier' for visitors, requiring them to manually enter information. Factors like hassle, time consumption, potential typos, and privacy concerns lead to drop-offs. Nudge AI virtually eliminates this barrier through Google One Tap. With just a single click, everything is completed through a familiar and trusted process. By removing this key barrier, the likelihood of more visitors completing the subscription process itself increases significantly. The degree of improvement varies by store, so we recommend checking it out with our 14-day free trial.
+A: Traditional subscription forms act as a 'barrier' for visitors, requiring them to manually enter information. Factors like hassle, time consumption, potential typos, and privacy concerns lead to drop-offs. Nudge AI virtually eliminates this barrier through Google One Tap. With just a single click, everything is completed through a familiar and trusted process. By removing this key barrier, the likelihood of more visitors completing the subscription process itself increases significantly. The degree of improvement varies by store, so we recommend checking it out with our 7-day free trial.
 
 ### Q: How is this app different from other email acquisition apps?
 
@@ -26,7 +26,7 @@ A summary of key differences:
 | Sign-up Page        | UI Optimized for Google One Tap                                                                         | Standard Social Login UI                                                 |
 | Pop-up Presentation | Optimal size & position, non-disruptive<br>AI determines optimal timing based on user behavior         | Can be disruptive (size/full-screen)<br>Timing often ignores shopping context |
 
-### Q: What happens after the 14-day free trial ends?
+### Q: What happens after the 7-day free trial ends?
 
 A: You will receive a notification before your free trial period expires. If you do nothing, your chosen plan will automatically activate upon trial completion, and billing will commence. To avoid charges if you decide not to continue using the app, simply uninstall it before the trial period ends.
 

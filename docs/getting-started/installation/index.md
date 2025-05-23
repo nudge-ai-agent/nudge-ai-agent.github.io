@@ -5,8 +5,9 @@ Installing Nudge AI is simple and requires no special technical knowledge.
 ## Installation Process
 
 1. Search for 'Nudge AI' in the Shopify App Store and click the 'Add app' button.
-2. Review the requested permissions and click 'Install app'.
-3. Choose your desired plan and start the 14-day free trial.
+2. Follow the Shopify App Store prompts to complete the app installation.
+3. Choose your desired plan and start the 7-day free trial.
+4. Navigate to the Nudge AI app admin page to confirm app activation and settings.
 
 ## Essential Post-Installation Setup
 
