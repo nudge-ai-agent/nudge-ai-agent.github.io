@@ -1,4 +1,4 @@
-# Understanding Shopify Customer Accounts: Legacy vs. New
+# Understanding Shopify Customer Accounts: Legacy vs. New customer accounts
 
 Shopify offers store owners two main ways to manage customer accounts: **"Classic (Legacy) customer accounts"** and **"New customer accounts"**. Depending on which type of customer account your store uses, some NudgeAI features (especially login page enhancements and pop-up behavior) may apply differently. Therefore, it's important to identify your store's current settings and understand the characteristics of each type.
 
