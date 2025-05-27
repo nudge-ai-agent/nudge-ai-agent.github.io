@@ -16,7 +16,7 @@ If NudgeAI is set up correctly and has started working, you can directly check t
     *   **Recently Collected Customer List (High-Value Email List):**
         *   Below the core metrics, a table displays recently acquired customer information (name, verified email, order count, capture date, etc.). Confirm that new customer information is appearing in this list.
 
-If data is displayed correctly on the NudgeAI app dashboard and the numbers are increasing, your basic setup is likely correct. (See [Navigating Your NudgeAI Dashboard](../../analytics/dashboard-navigation.md) for more details.)
+If data is displayed correctly on the NudgeAI app dashboard and the numbers are increasing, your basic setup is likely correct. (See [Navigating Your NudgeAI Dashboard](../analytics/dashboard-navigation.md) for more details.)
 
 ## 2. Test NudgeAI Features on Your Live Store (Most Reliable Method)
 
@@ -65,6 +65,6 @@ If NudgeAI features do not work as expected during the test, or if information i
 
 *   [First Steps After NudgeAI Installation](./initial-setup.md)
 *   [Detailed App Embed Guide](./app-embed-guide.md)
-*   [Troubleshooting: Pop-up Not Displaying](../../support/troubleshooting-popup-display.md)
+*   [Troubleshooting: Pop-up Not Displaying](../support/troubleshooting-popup-display.md)
 
-If issues persist, please do not hesitate to [contact NudgeAI Customer Support](../../support/contacting-support.md). Providing details about the problem (e.g., which pop-up, on which page/environment, what steps you've already checked) will help us resolve the issue more quickly. 
+If issues persist, please do not hesitate to [contact NudgeAI Customer Support](../support/contacting-support.md). Providing details about the problem (e.g., which pop-up, on which page/environment, what steps you've already checked) will help us resolve the issue more quickly. 

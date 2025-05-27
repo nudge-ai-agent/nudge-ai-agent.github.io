@@ -35,4 +35,4 @@ The following are the main permission requests displayed by Shopify during Nudge
 
 NudgeAI strictly uses all requested permissions solely for the purpose of service provision and feature enhancement. We are committed to protecting your data securely and adhering 철저히 (cheoljeohi - thoroughly) to all Shopify developer policies and relevant privacy regulations.
 
-The permissions displayed during app installation are the minimum requirements for NudgeAI to provide you with the best value. If you have any questions regarding these permissions, please feel free to review our [Privacy Policy](../../legal/privacy-policy.md) or contact the [NudgeAI Customer Support team](../../support/contacting-support.md) at any time. 
+The permissions displayed during app installation are the minimum requirements for NudgeAI to provide you with the best value. If you have any questions regarding these permissions, please feel free to review our [Privacy Policy](../legal/privacy-policy.md) or contact the [NudgeAI Customer Support team](../support/contacting-support.md) at any time. 

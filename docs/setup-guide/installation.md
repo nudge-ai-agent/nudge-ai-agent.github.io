@@ -29,6 +29,6 @@ You can easily find and install the NudgeAI app on your store from the Shopify A
 
 8.  **Installation Complete & Proceed to Initial Setup:**
     *   After a short while, the NudgeAI app will be successfully installed in your store. You will typically be automatically redirected to the NudgeAI app's admin page (dashboard).
-    *   From here, you can [select your NudgeAI pricing plan](../../pricing/plans-pricing.md) and proceed with the necessary [initial configuration](./initial-setup.md) to start using NudgeAI.
+    *   From here, you can [select your NudgeAI pricing plan](../pricing/plans-pricing.md) and proceed with the necessary [initial configuration](./initial-setup.md) to start using NudgeAI.
 
-By following these steps, you can successfully install the NudgeAI app. If you encounter any difficulties during the installation process or have any questions, please do not hesitate to contact our [NudgeAI Customer Support team](../../support/contacting-support.md) at any time. 
+By following these steps, you can successfully install the NudgeAI app. If you encounter any difficulties during the installation process or have any questions, please do not hesitate to contact our [NudgeAI Customer Support team](../support/contacting-support.md) at any time. 

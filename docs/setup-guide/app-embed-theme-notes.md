@@ -20,7 +20,7 @@ If you encounter the following problems despite following the standard procedure
 *   NudgeAI features (e.g., pop-ups) do not appear on your store at all, even after activating and saving the NudgeAI App Embed.
 *   NudgeAI UI appears broken or seems to conflict with certain theme elements.
 
-Please first [contact NudgeAI Customer Support](../../support/contacting-support.md). Providing the following information with your inquiry will greatly help in resolving the issue:
+Please first [contact NudgeAI Customer Support](../support/contacting-support.md). Providing the following information with your inquiry will greatly help in resolving the issue:
 
 *   **The exact name and version of your Shopify theme** (This can usually be found in the Theme Editor or under Shopify Admin > Online Store > Themes).
 *   **A specific description of the problem you are experiencing** (e.g., on which page the issue occurs, screenshots, etc.).

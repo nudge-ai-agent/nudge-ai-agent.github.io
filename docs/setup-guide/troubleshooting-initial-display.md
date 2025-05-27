@@ -18,7 +18,7 @@ First, ensure the following settings are correctly configured on your NudgeAI ap
 *   **Check:**
     *   Verify that your current NudgeAI subscription plan is **active**. (Service may be suspended due to an expired free trial, payment issues, etc.)
     *   Ensure you have **not exceeded the monthly email collection limit** for your active plan (e.g., 300 emails/month for the Starter Plan). If the collection limit is reached, pop-ups may not operate for the remainder of that month. You can check your current collection count via the "High-value Emails" metric on the NudgeAI dashboard.
-*   **Action:** If there's an issue with your subscription status or if you've exceeded the collection limit, consider renewing your plan or [upgrading to a higher plan](../../pricing/plans-pricing.md).
+*   **Action:** If there's an issue with your subscription status or if you've exceeded the collection limit, consider renewing your plan or [upgrading to a higher plan](../pricing/plans-pricing.md).
 
 ## Step 2: Verify Shopify Settings
 
@@ -49,4 +49,4 @@ Pop-ups are configured to display only under specific conditions. Please review 
 *   **Shopify Theme Changes or Code Modifications:** If you recently changed your theme or manually edited its code, the App Embed settings might have been reset, or conflicts could have arisen. Re-check the App Embed activation status.
 *   **Conflicts with Other Apps:** In rare cases, conflicts with other Shopify apps can occur. If you've recently installed new apps, try temporarily disabling them to test if this resolves the issue.
 
-If the problem persists after checking all these steps, try clearing your browser cache/cookies and testing again in Incognito mode. If you still need assistance, please contact the [NudgeAI Customer Support Team](../../support/contacting-support.md) with specific details about the issue (pop-up type, page where it's not displaying, checklist performed, etc.) for faster resolution. 
+If the problem persists after checking all these steps, try clearing your browser cache/cookies and testing again in Incognito mode. If you still need assistance, please contact the [NudgeAI Customer Support Team](../support/contacting-support.md) with specific details about the issue (pop-up type, page where it's not displaying, checklist performed, etc.) for faster resolution. 

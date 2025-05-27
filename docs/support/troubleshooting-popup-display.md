@@ -1,49 +1,47 @@
 # Self-Check Steps When Pop-up Is Not Displaying
 
-(Content corresponding to: NudgeAI 팝업이 정상적으로 노출되지 않을 때 가장 먼저 확인해야 할 사항은 무엇인가요?) 
-
 ---
-title: Self-Check Steps When Pop-up Is Not Displaying
+Self-Check Steps When Pop-up Is Not Displaying
 ---
+ 
+If you believe the NudgeAI pop-up (AI Pop-up: AI Plus Pop-up or AI Lite Pop-up) is not displaying correctly on your store, there are several simple checks you can perform first, which often resolve the issue. We recommend going through the following common troubleshooting steps in order.
 
-If you believe the NudgeAI Pop-up (AI Pop-up: AI Plus Pop-up or AI Lite Pop-up) is not displaying correctly on your store, you can often resolve the issue by checking a few simple things first. We recommend going through the following general troubleshooting steps in order.
+**Self-Check Steps for NudgeAI Pop-up Display Issues:**
 
-**Self-Check Steps for NudgeAI Pop-up Not Displaying:**
-
-1.  **Check "[Quick Settings](../../setup-guide/initial-setup.md)" in the NudgeAI App:**
-    *   First, access the NudgeAI app admin page (dashboard) and confirm that the two main settings in **"[Quick Settings](../../setup-guide/initial-setup.md)"** are correctly configured. (See the [First Steps After Installation](../../setup-guide/initial-setup.md) article for details.)
+1.  **Check "[Quick Settings](../setup-guide/initial-setup.md)" within the NudgeAI App:**
+    *   First, access the NudgeAI app admin page (dashboard) and verify that the two main settings under **"[Quick Settings](../setup-guide/initial-setup.md)"** are correctly configured. (Refer to the [First Steps After Installation](../setup-guide/initial-setup.md) document.)
     *   **① Service Settings:**
-        *   Double-check that the **"Enable All Services" switch is turned ON (blue)**. If this switch is off, all NudgeAI features will be disabled.
-        *   Ensure you clicked the **"Save"** button after making any changes.
-    *   **② [Enable App Embed](../../setup-guide/app-embed-guide.md):**
-        *   In your Shopify theme editor, under the \'App embeds\' section, verify that the toggle switch for **"NudgeAI Email"** (or a similar NudgeAI-related name) is turned ON, and that you have clicked the **\'Save\'** button in the theme editor to apply the changes. If the app embed is disabled or not saved, the pop-up will not appear on your store. (See the [Step-by-Step App Embed Guide](../../setup-guide/app-embed-guide.md) article for details.)
+        *   Double-check that the **"Enable All Services" switch is turned ON (blue)**. If this switch is off, all NudgeAI features will not function.
+        *   Ensure you have clicked the **"Save"** button after any changes.
+    *   **② [Enable App Embed](../setup-guide/app-embed-guide.md):**
+        *   In your Shopify theme editor's 'App embeds' section, confirm that the toggle switch for the **"NudgeAI Email" (or a NudgeAI-related name) item is turned on, and that you have pressed the 'Save' button in the theme editor to apply the changes.** If the app embed is disabled or not saved, the pop-up will not appear on your store. (Refer to the [Step-by-Step App Embed Guide](../setup-guide/app-embed-guide.md) document.)
 
 2.  **Check Monthly Email Collection Limit:**
-    *   Each NudgeAI [pricing plan (Starter, AI-Growth)](../../pricing/plans-pricing.md) has a **maximum limit on the number of "verified emails"** that can be collected per month (the AI-Scale plan is unlimited). (See the [NudgeAI Subscription Plans & Pricing](../../pricing/plans-pricing.md) article for details.)
-    *   If you have already **reached this collection limit for your current plan, the AI Pop-up feature will no longer function for the remainder of that month.**
-    *   Check the **"High-value Emails"** and **"Total High-value Emails"** metrics on your NudgeAI dashboard and compare them to your current plan\'s monthly collection limit.
-    *   If the limit is exceeded, you can wait for the next monthly collection cycle to begin or consider upgrading to a higher plan.
+    *   Each NudgeAI [subscription plan (Starter, AI-Growth)](../pricing/plans-pricing.md) has a **maximum monthly limit for collecting "verified emails"** (the AI-Scale plan is unlimited). (Refer to the [NudgeAI Subscription Plans & Pricing](../pricing/plans-pricing.md) document.)
+    *   If you have already reached this collection limit for your current plan, the **AI Pop-up feature will cease to function for the remainder of that month.**
+    *   In the NudgeAI dashboard, check the **"High-value Emails"** and **"Total High-value Emails"** metrics and compare them to your current plan's monthly collection limit.
+    *   If the limit is exceeded, you can wait for the next monthly collection cycle or consider upgrading to a higher plan.
 
-3.  **[Check Subscription Plan Status](../../pricing/plans-pricing.md):**
-    *   In the NudgeAI app admin page, under the \'Billing\' or \'Plan\' menu, please check if your **current subscription plan is active, if the free trial period has expired, or if there have been any payment issues.** Problems with your subscription status can lead to a temporary suspension of services. (See the [NudgeAI Subscription Plans & Pricing](../../pricing/plans-pricing.md) and [Managing Your Billing & Invoices](../../pricing/billing-invoices.md) articles for details.)
+3.  **[Check Subscription Plan Status](../pricing/plans-pricing.md):**
+    *   In the NudgeAI app admin page, under the 'Billing' or 'Plan' menu, verify that your **current subscription plan is active, your free trial has not expired, or there are no payment issues.** Problems with your subscription status can lead to a temporary suspension of services. (Refer to the [NudgeAI Subscription Plans & Pricing](../pricing/plans-pricing.md) and [Managing Your Billing & Invoices](../pricing/billing-invoices.md) documents.)
 
 4.  **Reconfirm Pop-up Display Rules and Conditions:**
-    *   **[AI Plus Pop-up](../../features/ai-plus-popup-display-rules.md):** This pop-up **only works on mobile devices**. If you are testing on a PC, it\'s normal for it not to appear. It also appears immediately upon landing on specific pages (Main page, Cart page, Thank You page). If you close the pop-up on a page, it will not reappear on that page for a set period (24 hours for Main/Cart, 7 days for Thank You page). (See the [AI Plus Pop-up: Display Conditions & Rules](../../features/ai-plus-popup-display-rules.md) article for details.)
-    *   **[AI Lite Pop-up](../../features/ai-lite-popup-detailed-rules.md):** This pop-up works on both PC and mobile, but it generally appears at the bottom of the screen (or similar) when you **scroll down about 50% of the page content**. It may not appear immediately upon visiting a page. (See the [AI Lite Pop-up: Detailed Display & Closing/Re-display Rules](../../features/ai-lite-popup-detailed-rules.md) article for details.)
-    *   **Common Non-Display Condition:** If a customer has already successfully provided all necessary information (name, email, marketing consent, etc.) through any NudgeAI feature and completed their subscription (or login), the pop-up will no longer be displayed redundantly to that customer.
+    *   **[AI Plus Pop-up](../features/ai-plus-popup-display-rules.md):** This pop-up **only works on mobile devices.** If you are testing on a PC, it is normal for it to not appear. It also appears immediately upon landing on specific pages like the main page, cart page, or order confirmation page. Once closed on a page, it will not reappear on that page for a certain period (24 hours for main/cart, 7 days for order confirmation). (Refer to the [AI Plus Pop-up: Display Conditions & Rules](../features/ai-plus-popup-display-rules.md) document.)
+    *   **[AI Lite Pop-up](../features/ai-lite-popup-detailed-rules.md):** This pop-up works on both PC and mobile but typically appears (e.g., at the bottom of the screen) **when about 50% of the page content has been scrolled.** It may not be visible immediately upon entering a page. (Refer to the [AI Lite Pop-up: Detailed Display & Closing/Re-display Rules](../features/ai-lite-popup-detailed-rules.md) document.)
+    *   **Common Non-Display Condition:** If a customer has already provided all necessary information (name, email, marketing consent, etc.) and successfully subscribed (or logged in) through any NudgeAI feature, the pop-up will no longer be displayed redundantly to that customer.
 
 5.  **Browser Cache and Cookie Issues (Important for Testing):**
-    *   When testing pop-up visibility, records of previously viewing or closing the pop-up might be stored in your browser\'s cache or cookies, preventing it from appearing.
-    *   **The most accurate way to test is to use your browser\'s \'Incognito Mode\' (or Private Window)** or to clear your browser cache and cookies before accessing the store. (Also, see the [Verifying Your NudgeAI Setup](../../setup-guide/verifying-setup.md) article.)
+    *   When testing pop-up visibility yourself, your browser's cache or cookies might retain a record of you having previously seen or closed the pop-up, preventing it from reappearing.
+    *   **The most accurate way to test is by using your browser's 'Incognito Mode (or Private Window)'** or by clearing your browser's cache and cookies before visiting your store. (Also refer to the [Verifying Your NudgeAI Setup](../setup-guide/verifying-setup.md) document.)
 
-6.  **Check Shopify Theme Change or Code Modification History:**
-    *   If you recently changed your Shopify store\'s theme or directly modified the theme code, it\'s possible that the NudgeAI app embed settings were disabled or a conflict with other code occurred. Please [re-check the app embed activation status from step 1](../../setup-guide/app-embed-guide.md). (Also, see the [Theme Compatibility & App Embed](../../setup-guide/theme-compatibility-app-embed.md) article.)
+6.  **Check for Shopify Theme Changes or Code Modifications:**
+    *   If you recently changed your Shopify store's theme or directly modified theme code, the NudgeAI app embed setting might have been disabled, or a conflict with other code might have occurred. Please [re-verify the app embed activation status from step 1](../setup-guide/app-embed-guide.md). (Also refer to the [Theme Compatibility & App Embed](../setup-guide/theme-compatibility-app-embed.md) document.)
 
-7.  **Possibility of Conflict with Other Apps (Rare Cases):**
-    *   Very rarely, certain features of other apps installed on your store might interfere with the normal operation of the NudgeAI pop-up. If you\'ve recently installed a new app, you could try temporarily disabling it to see if the NudgeAI pop-up appears.
+7.  **Potential Conflicts with Other Apps (Rare Cases):**
+    *   In very rare instances, a specific feature of another app installed on your store might interfere with the normal operation of the NudgeAI pop-up. If you have recently installed a new app, temporarily disabling it and then checking if the NudgeAI pop-up appears can be one troubleshooting method.
 
-**If the issue persists after checking all the above steps:**
+**If the problem persists after checking all the above steps:**
 
-Please do not hesitate to [**contact our NudgeAI Customer Support team**](../contacting-support.md). When you contact us, please provide specific details such as which type of pop-up (AI Plus or AI Lite) is not appearing, on which page/environment (PC/mobile, specific page URL), and which of the above self-check steps you have already tried. This information will help us resolve your issue more quickly and accurately. (See the [Contacting NudgeAI Customer Support](../contacting-support.md) article for details.)
+Please do not hesitate to [**contact our NudgeAI Customer Support team**](./contacting-support.md). When you reach out, providing specific details such as which type of pop-up (AI Plus or AI Lite) is not appearing, on which page/environment (PC/mobile, specific page URL), and which self-check steps you have already performed, will help us resolve the issue more quickly and accurately. (Refer to the [Contacting NudgeAI Customer Support](./contacting-support.md) document.)
 
-We are committed to helping you ensure NudgeAI works smoothly on your store to achieve the best results! 
+We are committed to helping NudgeAI work seamlessly on your store to achieve the best possible results! 

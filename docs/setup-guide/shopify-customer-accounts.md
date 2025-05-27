@@ -10,7 +10,7 @@ Here's how to check which customer account type your store is currently using:
 2.  Click on **'Settings'** at the bottom of the left-hand menu.
 3.  In the Settings menu, select **'Customer accounts'**.
 
-    ![Shopify Customer Account Settings Path](../../assets/images/shopify_setting_01.png)
+    ![Shopify Customer Account Settings Path](../assets/images/shopify_setting_01.png)
     *Shopify Admin > Settings > Customer accounts*
 
 4.  The currently selected account method will be displayed at the top or middle of the 'Customer accounts' page.
@@ -32,7 +32,7 @@ Here's how to check which customer account type your store is currently using:
 ### 1. If You Use Legacy (Classic) Customer Accounts
 
 *   **NudgeAI's Role:** NudgeAI automatically adds a **'Continue with Google' button** to your store's `/account/login` and `/account/register` pages. This allows customers to easily log in or sign up via Google One Tap and simultaneously provide their name, email, and marketing consent information.
-*   **Marketing Consent Processing:** Marketing consent obtained through this 'Continue with Google' button is processed according to the [Detailed Guide to "Marketing Consent Settings"](../../features/login-page-consent-config-legacy.md) in the NudgeAI app's "Quick Settings."
+*   **Marketing Consent Processing:** Marketing consent obtained through this 'Continue with Google' button is processed according to the [Detailed Guide to "Marketing Consent Settings"](../features/login-page-consent-config-legacy.md) in the NudgeAI app's "Quick Settings."
 *   **AI Pop-up Behavior:**
     *   **AI Plus Pop-up:** Generally not displayed to already logged-in customers to avoid redundancy.
     *   **AI Lite Pop-up:** Can be used to gently supplement existing member information (e.g., real name) or obtain new marketing consent.
@@ -41,7 +41,7 @@ Here's how to check which customer account type your store is currently using:
 ### 2. If You Use New Customer Accounts
 
 *   **NudgeAI's Role:** NudgeAI does not directly modify Shopify's new customer account login page (which uses email and a 6-digit code).
-*   **Information Collection Method:** In this environment, NudgeAI primarily collects customers' real names, verified emails, and marketing consent through [AI Plus Pop-ups](../../features/ai-plus-popup-purpose-features.md) and [AI Lite Pop-ups](../../features/ai-lite-popup-introduction.md). This can also apply to logged-in customers because the default Shopify login process doesn't necessarily require a real name or marketing consent.
+*   **Information Collection Method:** In this environment, NudgeAI primarily collects customers' real names, verified emails, and marketing consent through [AI Plus Pop-ups](../features/ai-plus-popup-purpose-features.md) and [AI Lite Pop-ups](../features/ai-lite-popup-introduction.md). This can also apply to logged-in customers because the default Shopify login process doesn't necessarily require a real name or marketing consent.
 *   **Recommendation:** Ensure that service activation and App Embed settings are correctly completed during the app's [initial setup](./initial-setup.md) so that NudgeAI's pop-up features can operate smoothly and collect customer information effectively.
 
 ## Which Account Type Should You Choose?
@@ -50,4 +50,4 @@ Shopify is gradually encouraging a transition to the new customer account system
 
 NudgeAI is designed to optimize customer information collection for both account types. Consider your current store policies, customer characteristics, and Shopify's recommendations to choose the most suitable customer account type for your store, and then maximize your data collection effectiveness through NudgeAI settings.
 
-If you have further questions about changing account types or settings, please refer to Shopify's official help documentation or feel free to contact the [NudgeAI Customer Support team](../../support/contacting-support.md) for assistance. 
+If you have further questions about changing account types or settings, please refer to Shopify's official help documentation or feel free to contact the [NudgeAI Customer Support team](../support/contacting-support.md) for assistance. 

@@ -45,8 +45,8 @@ Here are test scenarios for NudgeAI's main features:
 
 *   **Normal Operation:** Through these test scenarios, NudgeAI pop-ups or buttons should appear according to the intended conditions, and after information provision, the customer's information (name, email, marketing consent status, tags, notes, timeline records) should be accurately created or updated in the Shopify customer list.
 *   **If Issues Occur:**
-    *   If pop-ups do not appear at all, or if buttons do not work, first refer to the "[Troubleshooting Pop-up Display Issues](../../support/troubleshooting-popup-display.md)" document to check common issues.
+    *   If pop-ups do not appear at all, or if buttons do not work, first refer to the "[Troubleshooting Pop-up Display Issues](../support/troubleshooting-popup-display.md)" document to check common issues.
     *   Specifically, re-check the service activation status within the NudgeAI app, the App Embed settings, and your subscription plan status.
-    *   If problems persist, please contact the [NudgeAI Customer Support Team](../../support/contacting-support.md) with details of the issue (which page, which feature, what symptoms) for prompt assistance.
+    *   If problems persist, please contact the [NudgeAI Customer Support Team](../support/contacting-support.md) with details of the issue (which page, which feature, what symptoms) for prompt assistance.
 
 By conducting these specific tests, you can be confident that NudgeAI is operating optimally in your store, enabling you to carry out effective marketing activities based on high-quality collected customer data. 

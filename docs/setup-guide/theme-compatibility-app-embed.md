@@ -11,7 +11,7 @@ NudgeAI is designed to work seamlessly with a wide variety of Shopify store them
 2.  **Custom Themes and Points to Note:**
     *   If your store uses a theme that has been **extensively customized** in a way that significantly deviates from Shopify's standard structure, involves substantial non-standard code modifications, or if you are using a very outdated theme version, there's a rare chance that certain NudgeAI UI elements (e.g., pop-ups) might not display or function as anticipated.
     *   The possibility of functional conflicts with other installed apps cannot be entirely dismissed. This is a general occurrence within the Shopify app ecosystem.
-    *   **In Case of Issues:** If NudgeAI's pop-ups or features don't seem to be working as expected, please don't hesitate to contact the [NudgeAI Customer Support team](../../support/contacting-support.md). Providing the name of your theme and a specific description of the problem will greatly assist in resolving the issue.
+    *   **In Case of Issues:** If NudgeAI's pop-ups or features don't seem to be working as expected, please don't hesitate to contact the [NudgeAI Customer Support team](../support/contacting-support.md). Providing the name of your theme and a specific description of the problem will greatly assist in resolving the issue.
 
 ## Integration via App Embed Feature
 
@@ -24,7 +24,7 @@ NudgeAI is designed to work seamlessly with a wide variety of Shopify store them
 
 3.  **Activating App Embed:**
     *   After installing NudgeAI, you can activate its features by simply toggling on the switch for "NudgeAI Email" (or a similar NudgeAI-related name) in the 'App embeds' section of your Shopify theme editor.
-    *   For detailed activation steps, please refer to the [Step-by-Step App Embed Activation Guide](./activating-app-embed.md).
+    *   For detailed activation steps, please refer to the [Step-by-Step App Embed Activation Guide](app-embed-guide.md).
 
 ## Recommendations
 
