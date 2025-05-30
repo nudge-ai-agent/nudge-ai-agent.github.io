@@ -108,7 +108,10 @@ plugins:
               - 'Terms of Service': 'legal/terms-of-service.md'
               - 'Privacy Policy': 'legal/privacy-policy.md'
             - 'Blog':
-              - 'Blog Home': 'blog/index.md'
+              - 'All Posts': 'blog/index.md'
+              - 'Success Stories':
+                - 'Overview': 'blog/success-stories/index.md'
+                - 'Xexymix Case Study': 'blog/success-stories/xexymix.md'
             - 'Get the App ↗': 'https://apps.shopify.com/nudgeai-email?utm_source=nudgeaihelp'
         - locale: ko
           name: 한국어
@@ -174,7 +177,10 @@ plugins:
               - '서비스 이용약관': 'ko/legal/terms-of-service.md'
               - '개인정보처리방침': 'ko/legal/privacy-policy.md'
             - '블로그':
-              - '블로그 홈': 'ko/blog/index.md'
+              - '모든 게시물': 'ko/blog/index.md'
+              - '성공 사례':
+                - '개요': 'ko/blog/success-stories/index.md'
+                - '젝시믹스 사례 연구': 'ko/blog/success-stories/xexymix.md'
             - '앱 다운로드 ↗': 'https://apps.shopify.com/nudgeai-email?utm_source=nudgeaihelp'
           nav_translations:
             Home: 홈
